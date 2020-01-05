@@ -26,6 +26,1613 @@ namespace BLEClient
 		
 		public static void UpdateIdValues()
 		{
+			global::BLE.Resource.Animation.abc_fade_in = global::BLEClient.Resource.Animation.abc_fade_in;
+			global::BLE.Resource.Animation.abc_fade_out = global::BLEClient.Resource.Animation.abc_fade_out;
+			global::BLE.Resource.Animation.abc_grow_fade_in_from_bottom = global::BLEClient.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::BLE.Resource.Animation.abc_popup_enter = global::BLEClient.Resource.Animation.abc_popup_enter;
+			global::BLE.Resource.Animation.abc_popup_exit = global::BLEClient.Resource.Animation.abc_popup_exit;
+			global::BLE.Resource.Animation.abc_shrink_fade_out_from_bottom = global::BLEClient.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::BLE.Resource.Animation.abc_slide_in_bottom = global::BLEClient.Resource.Animation.abc_slide_in_bottom;
+			global::BLE.Resource.Animation.abc_slide_in_top = global::BLEClient.Resource.Animation.abc_slide_in_top;
+			global::BLE.Resource.Animation.abc_slide_out_bottom = global::BLEClient.Resource.Animation.abc_slide_out_bottom;
+			global::BLE.Resource.Animation.abc_slide_out_top = global::BLEClient.Resource.Animation.abc_slide_out_top;
+			global::BLE.Resource.Animation.abc_tooltip_enter = global::BLEClient.Resource.Animation.abc_tooltip_enter;
+			global::BLE.Resource.Animation.abc_tooltip_exit = global::BLEClient.Resource.Animation.abc_tooltip_exit;
+			global::BLE.Resource.Attribute.actionBarDivider = global::BLEClient.Resource.Attribute.actionBarDivider;
+			global::BLE.Resource.Attribute.actionBarItemBackground = global::BLEClient.Resource.Attribute.actionBarItemBackground;
+			global::BLE.Resource.Attribute.actionBarPopupTheme = global::BLEClient.Resource.Attribute.actionBarPopupTheme;
+			global::BLE.Resource.Attribute.actionBarSize = global::BLEClient.Resource.Attribute.actionBarSize;
+			global::BLE.Resource.Attribute.actionBarSplitStyle = global::BLEClient.Resource.Attribute.actionBarSplitStyle;
+			global::BLE.Resource.Attribute.actionBarStyle = global::BLEClient.Resource.Attribute.actionBarStyle;
+			global::BLE.Resource.Attribute.actionBarTabBarStyle = global::BLEClient.Resource.Attribute.actionBarTabBarStyle;
+			global::BLE.Resource.Attribute.actionBarTabStyle = global::BLEClient.Resource.Attribute.actionBarTabStyle;
+			global::BLE.Resource.Attribute.actionBarTabTextStyle = global::BLEClient.Resource.Attribute.actionBarTabTextStyle;
+			global::BLE.Resource.Attribute.actionBarTheme = global::BLEClient.Resource.Attribute.actionBarTheme;
+			global::BLE.Resource.Attribute.actionBarWidgetTheme = global::BLEClient.Resource.Attribute.actionBarWidgetTheme;
+			global::BLE.Resource.Attribute.actionButtonStyle = global::BLEClient.Resource.Attribute.actionButtonStyle;
+			global::BLE.Resource.Attribute.actionDropDownStyle = global::BLEClient.Resource.Attribute.actionDropDownStyle;
+			global::BLE.Resource.Attribute.actionLayout = global::BLEClient.Resource.Attribute.actionLayout;
+			global::BLE.Resource.Attribute.actionMenuTextAppearance = global::BLEClient.Resource.Attribute.actionMenuTextAppearance;
+			global::BLE.Resource.Attribute.actionMenuTextColor = global::BLEClient.Resource.Attribute.actionMenuTextColor;
+			global::BLE.Resource.Attribute.actionModeBackground = global::BLEClient.Resource.Attribute.actionModeBackground;
+			global::BLE.Resource.Attribute.actionModeCloseButtonStyle = global::BLEClient.Resource.Attribute.actionModeCloseButtonStyle;
+			global::BLE.Resource.Attribute.actionModeCloseDrawable = global::BLEClient.Resource.Attribute.actionModeCloseDrawable;
+			global::BLE.Resource.Attribute.actionModeCopyDrawable = global::BLEClient.Resource.Attribute.actionModeCopyDrawable;
+			global::BLE.Resource.Attribute.actionModeCutDrawable = global::BLEClient.Resource.Attribute.actionModeCutDrawable;
+			global::BLE.Resource.Attribute.actionModeFindDrawable = global::BLEClient.Resource.Attribute.actionModeFindDrawable;
+			global::BLE.Resource.Attribute.actionModePasteDrawable = global::BLEClient.Resource.Attribute.actionModePasteDrawable;
+			global::BLE.Resource.Attribute.actionModePopupWindowStyle = global::BLEClient.Resource.Attribute.actionModePopupWindowStyle;
+			global::BLE.Resource.Attribute.actionModeSelectAllDrawable = global::BLEClient.Resource.Attribute.actionModeSelectAllDrawable;
+			global::BLE.Resource.Attribute.actionModeShareDrawable = global::BLEClient.Resource.Attribute.actionModeShareDrawable;
+			global::BLE.Resource.Attribute.actionModeSplitBackground = global::BLEClient.Resource.Attribute.actionModeSplitBackground;
+			global::BLE.Resource.Attribute.actionModeStyle = global::BLEClient.Resource.Attribute.actionModeStyle;
+			global::BLE.Resource.Attribute.actionModeWebSearchDrawable = global::BLEClient.Resource.Attribute.actionModeWebSearchDrawable;
+			global::BLE.Resource.Attribute.actionOverflowButtonStyle = global::BLEClient.Resource.Attribute.actionOverflowButtonStyle;
+			global::BLE.Resource.Attribute.actionOverflowMenuStyle = global::BLEClient.Resource.Attribute.actionOverflowMenuStyle;
+			global::BLE.Resource.Attribute.actionProviderClass = global::BLEClient.Resource.Attribute.actionProviderClass;
+			global::BLE.Resource.Attribute.actionViewClass = global::BLEClient.Resource.Attribute.actionViewClass;
+			global::BLE.Resource.Attribute.activityChooserViewStyle = global::BLEClient.Resource.Attribute.activityChooserViewStyle;
+			global::BLE.Resource.Attribute.alertDialogButtonGroupStyle = global::BLEClient.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::BLE.Resource.Attribute.alertDialogCenterButtons = global::BLEClient.Resource.Attribute.alertDialogCenterButtons;
+			global::BLE.Resource.Attribute.alertDialogStyle = global::BLEClient.Resource.Attribute.alertDialogStyle;
+			global::BLE.Resource.Attribute.alertDialogTheme = global::BLEClient.Resource.Attribute.alertDialogTheme;
+			global::BLE.Resource.Attribute.allowStacking = global::BLEClient.Resource.Attribute.allowStacking;
+			global::BLE.Resource.Attribute.alpha = global::BLEClient.Resource.Attribute.alpha;
+			global::BLE.Resource.Attribute.alphabeticModifiers = global::BLEClient.Resource.Attribute.alphabeticModifiers;
+			global::BLE.Resource.Attribute.arrowHeadLength = global::BLEClient.Resource.Attribute.arrowHeadLength;
+			global::BLE.Resource.Attribute.arrowShaftLength = global::BLEClient.Resource.Attribute.arrowShaftLength;
+			global::BLE.Resource.Attribute.autoCompleteTextViewStyle = global::BLEClient.Resource.Attribute.autoCompleteTextViewStyle;
+			global::BLE.Resource.Attribute.autoSizeMaxTextSize = global::BLEClient.Resource.Attribute.autoSizeMaxTextSize;
+			global::BLE.Resource.Attribute.autoSizeMinTextSize = global::BLEClient.Resource.Attribute.autoSizeMinTextSize;
+			global::BLE.Resource.Attribute.autoSizePresetSizes = global::BLEClient.Resource.Attribute.autoSizePresetSizes;
+			global::BLE.Resource.Attribute.autoSizeStepGranularity = global::BLEClient.Resource.Attribute.autoSizeStepGranularity;
+			global::BLE.Resource.Attribute.autoSizeTextType = global::BLEClient.Resource.Attribute.autoSizeTextType;
+			global::BLE.Resource.Attribute.background = global::BLEClient.Resource.Attribute.background;
+			global::BLE.Resource.Attribute.backgroundSplit = global::BLEClient.Resource.Attribute.backgroundSplit;
+			global::BLE.Resource.Attribute.backgroundStacked = global::BLEClient.Resource.Attribute.backgroundStacked;
+			global::BLE.Resource.Attribute.backgroundTint = global::BLEClient.Resource.Attribute.backgroundTint;
+			global::BLE.Resource.Attribute.backgroundTintMode = global::BLEClient.Resource.Attribute.backgroundTintMode;
+			global::BLE.Resource.Attribute.barLength = global::BLEClient.Resource.Attribute.barLength;
+			global::BLE.Resource.Attribute.borderlessButtonStyle = global::BLEClient.Resource.Attribute.borderlessButtonStyle;
+			global::BLE.Resource.Attribute.buttonBarButtonStyle = global::BLEClient.Resource.Attribute.buttonBarButtonStyle;
+			global::BLE.Resource.Attribute.buttonBarNegativeButtonStyle = global::BLEClient.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::BLE.Resource.Attribute.buttonBarNeutralButtonStyle = global::BLEClient.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::BLE.Resource.Attribute.buttonBarPositiveButtonStyle = global::BLEClient.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::BLE.Resource.Attribute.buttonBarStyle = global::BLEClient.Resource.Attribute.buttonBarStyle;
+			global::BLE.Resource.Attribute.buttonGravity = global::BLEClient.Resource.Attribute.buttonGravity;
+			global::BLE.Resource.Attribute.buttonIconDimen = global::BLEClient.Resource.Attribute.buttonIconDimen;
+			global::BLE.Resource.Attribute.buttonPanelSideLayout = global::BLEClient.Resource.Attribute.buttonPanelSideLayout;
+			global::BLE.Resource.Attribute.buttonStyle = global::BLEClient.Resource.Attribute.buttonStyle;
+			global::BLE.Resource.Attribute.buttonStyleSmall = global::BLEClient.Resource.Attribute.buttonStyleSmall;
+			global::BLE.Resource.Attribute.buttonTint = global::BLEClient.Resource.Attribute.buttonTint;
+			global::BLE.Resource.Attribute.buttonTintMode = global::BLEClient.Resource.Attribute.buttonTintMode;
+			global::BLE.Resource.Attribute.checkboxStyle = global::BLEClient.Resource.Attribute.checkboxStyle;
+			global::BLE.Resource.Attribute.checkedTextViewStyle = global::BLEClient.Resource.Attribute.checkedTextViewStyle;
+			global::BLE.Resource.Attribute.closeIcon = global::BLEClient.Resource.Attribute.closeIcon;
+			global::BLE.Resource.Attribute.closeItemLayout = global::BLEClient.Resource.Attribute.closeItemLayout;
+			global::BLE.Resource.Attribute.collapseContentDescription = global::BLEClient.Resource.Attribute.collapseContentDescription;
+			global::BLE.Resource.Attribute.collapseIcon = global::BLEClient.Resource.Attribute.collapseIcon;
+			global::BLE.Resource.Attribute.color = global::BLEClient.Resource.Attribute.color;
+			global::BLE.Resource.Attribute.colorAccent = global::BLEClient.Resource.Attribute.colorAccent;
+			global::BLE.Resource.Attribute.colorBackgroundFloating = global::BLEClient.Resource.Attribute.colorBackgroundFloating;
+			global::BLE.Resource.Attribute.colorButtonNormal = global::BLEClient.Resource.Attribute.colorButtonNormal;
+			global::BLE.Resource.Attribute.colorControlActivated = global::BLEClient.Resource.Attribute.colorControlActivated;
+			global::BLE.Resource.Attribute.colorControlHighlight = global::BLEClient.Resource.Attribute.colorControlHighlight;
+			global::BLE.Resource.Attribute.colorControlNormal = global::BLEClient.Resource.Attribute.colorControlNormal;
+			global::BLE.Resource.Attribute.colorError = global::BLEClient.Resource.Attribute.colorError;
+			global::BLE.Resource.Attribute.colorPrimary = global::BLEClient.Resource.Attribute.colorPrimary;
+			global::BLE.Resource.Attribute.colorPrimaryDark = global::BLEClient.Resource.Attribute.colorPrimaryDark;
+			global::BLE.Resource.Attribute.colorSwitchThumbNormal = global::BLEClient.Resource.Attribute.colorSwitchThumbNormal;
+			global::BLE.Resource.Attribute.commitIcon = global::BLEClient.Resource.Attribute.commitIcon;
+			global::BLE.Resource.Attribute.contentDescription = global::BLEClient.Resource.Attribute.contentDescription;
+			global::BLE.Resource.Attribute.contentInsetEnd = global::BLEClient.Resource.Attribute.contentInsetEnd;
+			global::BLE.Resource.Attribute.contentInsetEndWithActions = global::BLEClient.Resource.Attribute.contentInsetEndWithActions;
+			global::BLE.Resource.Attribute.contentInsetLeft = global::BLEClient.Resource.Attribute.contentInsetLeft;
+			global::BLE.Resource.Attribute.contentInsetRight = global::BLEClient.Resource.Attribute.contentInsetRight;
+			global::BLE.Resource.Attribute.contentInsetStart = global::BLEClient.Resource.Attribute.contentInsetStart;
+			global::BLE.Resource.Attribute.contentInsetStartWithNavigation = global::BLEClient.Resource.Attribute.contentInsetStartWithNavigation;
+			global::BLE.Resource.Attribute.controlBackground = global::BLEClient.Resource.Attribute.controlBackground;
+			global::BLE.Resource.Attribute.coordinatorLayoutStyle = global::BLEClient.Resource.Attribute.coordinatorLayoutStyle;
+			global::BLE.Resource.Attribute.customNavigationLayout = global::BLEClient.Resource.Attribute.customNavigationLayout;
+			global::BLE.Resource.Attribute.defaultQueryHint = global::BLEClient.Resource.Attribute.defaultQueryHint;
+			global::BLE.Resource.Attribute.dialogCornerRadius = global::BLEClient.Resource.Attribute.dialogCornerRadius;
+			global::BLE.Resource.Attribute.dialogPreferredPadding = global::BLEClient.Resource.Attribute.dialogPreferredPadding;
+			global::BLE.Resource.Attribute.dialogTheme = global::BLEClient.Resource.Attribute.dialogTheme;
+			global::BLE.Resource.Attribute.displayOptions = global::BLEClient.Resource.Attribute.displayOptions;
+			global::BLE.Resource.Attribute.divider = global::BLEClient.Resource.Attribute.divider;
+			global::BLE.Resource.Attribute.dividerHorizontal = global::BLEClient.Resource.Attribute.dividerHorizontal;
+			global::BLE.Resource.Attribute.dividerPadding = global::BLEClient.Resource.Attribute.dividerPadding;
+			global::BLE.Resource.Attribute.dividerVertical = global::BLEClient.Resource.Attribute.dividerVertical;
+			global::BLE.Resource.Attribute.drawableSize = global::BLEClient.Resource.Attribute.drawableSize;
+			global::BLE.Resource.Attribute.drawerArrowStyle = global::BLEClient.Resource.Attribute.drawerArrowStyle;
+			global::BLE.Resource.Attribute.dropdownListPreferredItemHeight = global::BLEClient.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::BLE.Resource.Attribute.dropDownListViewStyle = global::BLEClient.Resource.Attribute.dropDownListViewStyle;
+			global::BLE.Resource.Attribute.editTextBackground = global::BLEClient.Resource.Attribute.editTextBackground;
+			global::BLE.Resource.Attribute.editTextColor = global::BLEClient.Resource.Attribute.editTextColor;
+			global::BLE.Resource.Attribute.editTextStyle = global::BLEClient.Resource.Attribute.editTextStyle;
+			global::BLE.Resource.Attribute.elevation = global::BLEClient.Resource.Attribute.elevation;
+			global::BLE.Resource.Attribute.expandActivityOverflowButtonDrawable = global::BLEClient.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::BLE.Resource.Attribute.firstBaselineToTopHeight = global::BLEClient.Resource.Attribute.firstBaselineToTopHeight;
+			global::BLE.Resource.Attribute.font = global::BLEClient.Resource.Attribute.font;
+			global::BLE.Resource.Attribute.fontFamily = global::BLEClient.Resource.Attribute.fontFamily;
+			global::BLE.Resource.Attribute.fontProviderAuthority = global::BLEClient.Resource.Attribute.fontProviderAuthority;
+			global::BLE.Resource.Attribute.fontProviderCerts = global::BLEClient.Resource.Attribute.fontProviderCerts;
+			global::BLE.Resource.Attribute.fontProviderFetchStrategy = global::BLEClient.Resource.Attribute.fontProviderFetchStrategy;
+			global::BLE.Resource.Attribute.fontProviderFetchTimeout = global::BLEClient.Resource.Attribute.fontProviderFetchTimeout;
+			global::BLE.Resource.Attribute.fontProviderPackage = global::BLEClient.Resource.Attribute.fontProviderPackage;
+			global::BLE.Resource.Attribute.fontProviderQuery = global::BLEClient.Resource.Attribute.fontProviderQuery;
+			global::BLE.Resource.Attribute.fontStyle = global::BLEClient.Resource.Attribute.fontStyle;
+			global::BLE.Resource.Attribute.fontVariationSettings = global::BLEClient.Resource.Attribute.fontVariationSettings;
+			global::BLE.Resource.Attribute.fontWeight = global::BLEClient.Resource.Attribute.fontWeight;
+			global::BLE.Resource.Attribute.gapBetweenBars = global::BLEClient.Resource.Attribute.gapBetweenBars;
+			global::BLE.Resource.Attribute.goIcon = global::BLEClient.Resource.Attribute.goIcon;
+			global::BLE.Resource.Attribute.height = global::BLEClient.Resource.Attribute.height;
+			global::BLE.Resource.Attribute.hideOnContentScroll = global::BLEClient.Resource.Attribute.hideOnContentScroll;
+			global::BLE.Resource.Attribute.homeAsUpIndicator = global::BLEClient.Resource.Attribute.homeAsUpIndicator;
+			global::BLE.Resource.Attribute.homeLayout = global::BLEClient.Resource.Attribute.homeLayout;
+			global::BLE.Resource.Attribute.icon = global::BLEClient.Resource.Attribute.icon;
+			global::BLE.Resource.Attribute.iconifiedByDefault = global::BLEClient.Resource.Attribute.iconifiedByDefault;
+			global::BLE.Resource.Attribute.iconTint = global::BLEClient.Resource.Attribute.iconTint;
+			global::BLE.Resource.Attribute.iconTintMode = global::BLEClient.Resource.Attribute.iconTintMode;
+			global::BLE.Resource.Attribute.imageButtonStyle = global::BLEClient.Resource.Attribute.imageButtonStyle;
+			global::BLE.Resource.Attribute.indeterminateProgressStyle = global::BLEClient.Resource.Attribute.indeterminateProgressStyle;
+			global::BLE.Resource.Attribute.initialActivityCount = global::BLEClient.Resource.Attribute.initialActivityCount;
+			global::BLE.Resource.Attribute.isLightTheme = global::BLEClient.Resource.Attribute.isLightTheme;
+			global::BLE.Resource.Attribute.itemPadding = global::BLEClient.Resource.Attribute.itemPadding;
+			global::BLE.Resource.Attribute.keylines = global::BLEClient.Resource.Attribute.keylines;
+			global::BLE.Resource.Attribute.lastBaselineToBottomHeight = global::BLEClient.Resource.Attribute.lastBaselineToBottomHeight;
+			global::BLE.Resource.Attribute.layout = global::BLEClient.Resource.Attribute.layout;
+			global::BLE.Resource.Attribute.layout_anchor = global::BLEClient.Resource.Attribute.layout_anchor;
+			global::BLE.Resource.Attribute.layout_anchorGravity = global::BLEClient.Resource.Attribute.layout_anchorGravity;
+			global::BLE.Resource.Attribute.layout_behavior = global::BLEClient.Resource.Attribute.layout_behavior;
+			global::BLE.Resource.Attribute.layout_dodgeInsetEdges = global::BLEClient.Resource.Attribute.layout_dodgeInsetEdges;
+			global::BLE.Resource.Attribute.layout_insetEdge = global::BLEClient.Resource.Attribute.layout_insetEdge;
+			global::BLE.Resource.Attribute.layout_keyline = global::BLEClient.Resource.Attribute.layout_keyline;
+			global::BLE.Resource.Attribute.lineHeight = global::BLEClient.Resource.Attribute.lineHeight;
+			global::BLE.Resource.Attribute.listChoiceBackgroundIndicator = global::BLEClient.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::BLE.Resource.Attribute.listDividerAlertDialog = global::BLEClient.Resource.Attribute.listDividerAlertDialog;
+			global::BLE.Resource.Attribute.listItemLayout = global::BLEClient.Resource.Attribute.listItemLayout;
+			global::BLE.Resource.Attribute.listLayout = global::BLEClient.Resource.Attribute.listLayout;
+			global::BLE.Resource.Attribute.listMenuViewStyle = global::BLEClient.Resource.Attribute.listMenuViewStyle;
+			global::BLE.Resource.Attribute.listPopupWindowStyle = global::BLEClient.Resource.Attribute.listPopupWindowStyle;
+			global::BLE.Resource.Attribute.listPreferredItemHeight = global::BLEClient.Resource.Attribute.listPreferredItemHeight;
+			global::BLE.Resource.Attribute.listPreferredItemHeightLarge = global::BLEClient.Resource.Attribute.listPreferredItemHeightLarge;
+			global::BLE.Resource.Attribute.listPreferredItemHeightSmall = global::BLEClient.Resource.Attribute.listPreferredItemHeightSmall;
+			global::BLE.Resource.Attribute.listPreferredItemPaddingLeft = global::BLEClient.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::BLE.Resource.Attribute.listPreferredItemPaddingRight = global::BLEClient.Resource.Attribute.listPreferredItemPaddingRight;
+			global::BLE.Resource.Attribute.logo = global::BLEClient.Resource.Attribute.logo;
+			global::BLE.Resource.Attribute.logoDescription = global::BLEClient.Resource.Attribute.logoDescription;
+			global::BLE.Resource.Attribute.maxButtonHeight = global::BLEClient.Resource.Attribute.maxButtonHeight;
+			global::BLE.Resource.Attribute.measureWithLargestChild = global::BLEClient.Resource.Attribute.measureWithLargestChild;
+			global::BLE.Resource.Attribute.multiChoiceItemLayout = global::BLEClient.Resource.Attribute.multiChoiceItemLayout;
+			global::BLE.Resource.Attribute.navigationContentDescription = global::BLEClient.Resource.Attribute.navigationContentDescription;
+			global::BLE.Resource.Attribute.navigationIcon = global::BLEClient.Resource.Attribute.navigationIcon;
+			global::BLE.Resource.Attribute.navigationMode = global::BLEClient.Resource.Attribute.navigationMode;
+			global::BLE.Resource.Attribute.numericModifiers = global::BLEClient.Resource.Attribute.numericModifiers;
+			global::BLE.Resource.Attribute.overlapAnchor = global::BLEClient.Resource.Attribute.overlapAnchor;
+			global::BLE.Resource.Attribute.paddingBottomNoButtons = global::BLEClient.Resource.Attribute.paddingBottomNoButtons;
+			global::BLE.Resource.Attribute.paddingEnd = global::BLEClient.Resource.Attribute.paddingEnd;
+			global::BLE.Resource.Attribute.paddingStart = global::BLEClient.Resource.Attribute.paddingStart;
+			global::BLE.Resource.Attribute.paddingTopNoTitle = global::BLEClient.Resource.Attribute.paddingTopNoTitle;
+			global::BLE.Resource.Attribute.panelBackground = global::BLEClient.Resource.Attribute.panelBackground;
+			global::BLE.Resource.Attribute.panelMenuListTheme = global::BLEClient.Resource.Attribute.panelMenuListTheme;
+			global::BLE.Resource.Attribute.panelMenuListWidth = global::BLEClient.Resource.Attribute.panelMenuListWidth;
+			global::BLE.Resource.Attribute.popupMenuStyle = global::BLEClient.Resource.Attribute.popupMenuStyle;
+			global::BLE.Resource.Attribute.popupTheme = global::BLEClient.Resource.Attribute.popupTheme;
+			global::BLE.Resource.Attribute.popupWindowStyle = global::BLEClient.Resource.Attribute.popupWindowStyle;
+			global::BLE.Resource.Attribute.preserveIconSpacing = global::BLEClient.Resource.Attribute.preserveIconSpacing;
+			global::BLE.Resource.Attribute.progressBarPadding = global::BLEClient.Resource.Attribute.progressBarPadding;
+			global::BLE.Resource.Attribute.progressBarStyle = global::BLEClient.Resource.Attribute.progressBarStyle;
+			global::BLE.Resource.Attribute.queryBackground = global::BLEClient.Resource.Attribute.queryBackground;
+			global::BLE.Resource.Attribute.queryHint = global::BLEClient.Resource.Attribute.queryHint;
+			global::BLE.Resource.Attribute.radioButtonStyle = global::BLEClient.Resource.Attribute.radioButtonStyle;
+			global::BLE.Resource.Attribute.ratingBarStyle = global::BLEClient.Resource.Attribute.ratingBarStyle;
+			global::BLE.Resource.Attribute.ratingBarStyleIndicator = global::BLEClient.Resource.Attribute.ratingBarStyleIndicator;
+			global::BLE.Resource.Attribute.ratingBarStyleSmall = global::BLEClient.Resource.Attribute.ratingBarStyleSmall;
+			global::BLE.Resource.Attribute.searchHintIcon = global::BLEClient.Resource.Attribute.searchHintIcon;
+			global::BLE.Resource.Attribute.searchIcon = global::BLEClient.Resource.Attribute.searchIcon;
+			global::BLE.Resource.Attribute.searchViewStyle = global::BLEClient.Resource.Attribute.searchViewStyle;
+			global::BLE.Resource.Attribute.seekBarStyle = global::BLEClient.Resource.Attribute.seekBarStyle;
+			global::BLE.Resource.Attribute.selectableItemBackground = global::BLEClient.Resource.Attribute.selectableItemBackground;
+			global::BLE.Resource.Attribute.selectableItemBackgroundBorderless = global::BLEClient.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::BLE.Resource.Attribute.showAsAction = global::BLEClient.Resource.Attribute.showAsAction;
+			global::BLE.Resource.Attribute.showDividers = global::BLEClient.Resource.Attribute.showDividers;
+			global::BLE.Resource.Attribute.showText = global::BLEClient.Resource.Attribute.showText;
+			global::BLE.Resource.Attribute.showTitle = global::BLEClient.Resource.Attribute.showTitle;
+			global::BLE.Resource.Attribute.singleChoiceItemLayout = global::BLEClient.Resource.Attribute.singleChoiceItemLayout;
+			global::BLE.Resource.Attribute.spinBars = global::BLEClient.Resource.Attribute.spinBars;
+			global::BLE.Resource.Attribute.spinnerDropDownItemStyle = global::BLEClient.Resource.Attribute.spinnerDropDownItemStyle;
+			global::BLE.Resource.Attribute.spinnerStyle = global::BLEClient.Resource.Attribute.spinnerStyle;
+			global::BLE.Resource.Attribute.splitTrack = global::BLEClient.Resource.Attribute.splitTrack;
+			global::BLE.Resource.Attribute.srcCompat = global::BLEClient.Resource.Attribute.srcCompat;
+			global::BLE.Resource.Attribute.state_above_anchor = global::BLEClient.Resource.Attribute.state_above_anchor;
+			global::BLE.Resource.Attribute.statusBarBackground = global::BLEClient.Resource.Attribute.statusBarBackground;
+			global::BLE.Resource.Attribute.subMenuArrow = global::BLEClient.Resource.Attribute.subMenuArrow;
+			global::BLE.Resource.Attribute.submitBackground = global::BLEClient.Resource.Attribute.submitBackground;
+			global::BLE.Resource.Attribute.subtitle = global::BLEClient.Resource.Attribute.subtitle;
+			global::BLE.Resource.Attribute.subtitleTextAppearance = global::BLEClient.Resource.Attribute.subtitleTextAppearance;
+			global::BLE.Resource.Attribute.subtitleTextColor = global::BLEClient.Resource.Attribute.subtitleTextColor;
+			global::BLE.Resource.Attribute.subtitleTextStyle = global::BLEClient.Resource.Attribute.subtitleTextStyle;
+			global::BLE.Resource.Attribute.suggestionRowLayout = global::BLEClient.Resource.Attribute.suggestionRowLayout;
+			global::BLE.Resource.Attribute.switchMinWidth = global::BLEClient.Resource.Attribute.switchMinWidth;
+			global::BLE.Resource.Attribute.switchPadding = global::BLEClient.Resource.Attribute.switchPadding;
+			global::BLE.Resource.Attribute.switchStyle = global::BLEClient.Resource.Attribute.switchStyle;
+			global::BLE.Resource.Attribute.switchTextAppearance = global::BLEClient.Resource.Attribute.switchTextAppearance;
+			global::BLE.Resource.Attribute.textAllCaps = global::BLEClient.Resource.Attribute.textAllCaps;
+			global::BLE.Resource.Attribute.textAppearanceLargePopupMenu = global::BLEClient.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::BLE.Resource.Attribute.textAppearanceListItem = global::BLEClient.Resource.Attribute.textAppearanceListItem;
+			global::BLE.Resource.Attribute.textAppearanceListItemSecondary = global::BLEClient.Resource.Attribute.textAppearanceListItemSecondary;
+			global::BLE.Resource.Attribute.textAppearanceListItemSmall = global::BLEClient.Resource.Attribute.textAppearanceListItemSmall;
+			global::BLE.Resource.Attribute.textAppearancePopupMenuHeader = global::BLEClient.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::BLE.Resource.Attribute.textAppearanceSearchResultSubtitle = global::BLEClient.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::BLE.Resource.Attribute.textAppearanceSearchResultTitle = global::BLEClient.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::BLE.Resource.Attribute.textAppearanceSmallPopupMenu = global::BLEClient.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::BLE.Resource.Attribute.textColorAlertDialogListItem = global::BLEClient.Resource.Attribute.textColorAlertDialogListItem;
+			global::BLE.Resource.Attribute.textColorSearchUrl = global::BLEClient.Resource.Attribute.textColorSearchUrl;
+			global::BLE.Resource.Attribute.theme = global::BLEClient.Resource.Attribute.theme;
+			global::BLE.Resource.Attribute.thickness = global::BLEClient.Resource.Attribute.thickness;
+			global::BLE.Resource.Attribute.thumbTextPadding = global::BLEClient.Resource.Attribute.thumbTextPadding;
+			global::BLE.Resource.Attribute.thumbTint = global::BLEClient.Resource.Attribute.thumbTint;
+			global::BLE.Resource.Attribute.thumbTintMode = global::BLEClient.Resource.Attribute.thumbTintMode;
+			global::BLE.Resource.Attribute.tickMark = global::BLEClient.Resource.Attribute.tickMark;
+			global::BLE.Resource.Attribute.tickMarkTint = global::BLEClient.Resource.Attribute.tickMarkTint;
+			global::BLE.Resource.Attribute.tickMarkTintMode = global::BLEClient.Resource.Attribute.tickMarkTintMode;
+			global::BLE.Resource.Attribute.tint = global::BLEClient.Resource.Attribute.tint;
+			global::BLE.Resource.Attribute.tintMode = global::BLEClient.Resource.Attribute.tintMode;
+			global::BLE.Resource.Attribute.title = global::BLEClient.Resource.Attribute.title;
+			global::BLE.Resource.Attribute.titleMargin = global::BLEClient.Resource.Attribute.titleMargin;
+			global::BLE.Resource.Attribute.titleMarginBottom = global::BLEClient.Resource.Attribute.titleMarginBottom;
+			global::BLE.Resource.Attribute.titleMarginEnd = global::BLEClient.Resource.Attribute.titleMarginEnd;
+			global::BLE.Resource.Attribute.titleMargins = global::BLEClient.Resource.Attribute.titleMargins;
+			global::BLE.Resource.Attribute.titleMarginStart = global::BLEClient.Resource.Attribute.titleMarginStart;
+			global::BLE.Resource.Attribute.titleMarginTop = global::BLEClient.Resource.Attribute.titleMarginTop;
+			global::BLE.Resource.Attribute.titleTextAppearance = global::BLEClient.Resource.Attribute.titleTextAppearance;
+			global::BLE.Resource.Attribute.titleTextColor = global::BLEClient.Resource.Attribute.titleTextColor;
+			global::BLE.Resource.Attribute.titleTextStyle = global::BLEClient.Resource.Attribute.titleTextStyle;
+			global::BLE.Resource.Attribute.toolbarNavigationButtonStyle = global::BLEClient.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::BLE.Resource.Attribute.toolbarStyle = global::BLEClient.Resource.Attribute.toolbarStyle;
+			global::BLE.Resource.Attribute.tooltipForegroundColor = global::BLEClient.Resource.Attribute.tooltipForegroundColor;
+			global::BLE.Resource.Attribute.tooltipFrameBackground = global::BLEClient.Resource.Attribute.tooltipFrameBackground;
+			global::BLE.Resource.Attribute.tooltipText = global::BLEClient.Resource.Attribute.tooltipText;
+			global::BLE.Resource.Attribute.track = global::BLEClient.Resource.Attribute.track;
+			global::BLE.Resource.Attribute.trackTint = global::BLEClient.Resource.Attribute.trackTint;
+			global::BLE.Resource.Attribute.trackTintMode = global::BLEClient.Resource.Attribute.trackTintMode;
+			global::BLE.Resource.Attribute.ttcIndex = global::BLEClient.Resource.Attribute.ttcIndex;
+			global::BLE.Resource.Attribute.viewInflaterClass = global::BLEClient.Resource.Attribute.viewInflaterClass;
+			global::BLE.Resource.Attribute.voiceIcon = global::BLEClient.Resource.Attribute.voiceIcon;
+			global::BLE.Resource.Attribute.windowActionBar = global::BLEClient.Resource.Attribute.windowActionBar;
+			global::BLE.Resource.Attribute.windowActionBarOverlay = global::BLEClient.Resource.Attribute.windowActionBarOverlay;
+			global::BLE.Resource.Attribute.windowActionModeOverlay = global::BLEClient.Resource.Attribute.windowActionModeOverlay;
+			global::BLE.Resource.Attribute.windowFixedHeightMajor = global::BLEClient.Resource.Attribute.windowFixedHeightMajor;
+			global::BLE.Resource.Attribute.windowFixedHeightMinor = global::BLEClient.Resource.Attribute.windowFixedHeightMinor;
+			global::BLE.Resource.Attribute.windowFixedWidthMajor = global::BLEClient.Resource.Attribute.windowFixedWidthMajor;
+			global::BLE.Resource.Attribute.windowFixedWidthMinor = global::BLEClient.Resource.Attribute.windowFixedWidthMinor;
+			global::BLE.Resource.Attribute.windowMinWidthMajor = global::BLEClient.Resource.Attribute.windowMinWidthMajor;
+			global::BLE.Resource.Attribute.windowMinWidthMinor = global::BLEClient.Resource.Attribute.windowMinWidthMinor;
+			global::BLE.Resource.Attribute.windowNoTitle = global::BLEClient.Resource.Attribute.windowNoTitle;
+			global::BLE.Resource.Boolean.abc_action_bar_embed_tabs = global::BLEClient.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::BLE.Resource.Boolean.abc_allow_stacked_button_bar = global::BLEClient.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::BLE.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::BLEClient.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::BLE.Resource.Color.abc_background_cache_hint_selector_material_dark = global::BLEClient.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::BLE.Resource.Color.abc_background_cache_hint_selector_material_light = global::BLEClient.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::BLE.Resource.Color.abc_btn_colored_borderless_text_material = global::BLEClient.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::BLE.Resource.Color.abc_btn_colored_text_material = global::BLEClient.Resource.Color.abc_btn_colored_text_material;
+			global::BLE.Resource.Color.abc_color_highlight_material = global::BLEClient.Resource.Color.abc_color_highlight_material;
+			global::BLE.Resource.Color.abc_hint_foreground_material_dark = global::BLEClient.Resource.Color.abc_hint_foreground_material_dark;
+			global::BLE.Resource.Color.abc_hint_foreground_material_light = global::BLEClient.Resource.Color.abc_hint_foreground_material_light;
+			global::BLE.Resource.Color.abc_input_method_navigation_guard = global::BLEClient.Resource.Color.abc_input_method_navigation_guard;
+			global::BLE.Resource.Color.abc_primary_text_disable_only_material_dark = global::BLEClient.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::BLE.Resource.Color.abc_primary_text_disable_only_material_light = global::BLEClient.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::BLE.Resource.Color.abc_primary_text_material_dark = global::BLEClient.Resource.Color.abc_primary_text_material_dark;
+			global::BLE.Resource.Color.abc_primary_text_material_light = global::BLEClient.Resource.Color.abc_primary_text_material_light;
+			global::BLE.Resource.Color.abc_search_url_text = global::BLEClient.Resource.Color.abc_search_url_text;
+			global::BLE.Resource.Color.abc_search_url_text_normal = global::BLEClient.Resource.Color.abc_search_url_text_normal;
+			global::BLE.Resource.Color.abc_search_url_text_pressed = global::BLEClient.Resource.Color.abc_search_url_text_pressed;
+			global::BLE.Resource.Color.abc_search_url_text_selected = global::BLEClient.Resource.Color.abc_search_url_text_selected;
+			global::BLE.Resource.Color.abc_secondary_text_material_dark = global::BLEClient.Resource.Color.abc_secondary_text_material_dark;
+			global::BLE.Resource.Color.abc_secondary_text_material_light = global::BLEClient.Resource.Color.abc_secondary_text_material_light;
+			global::BLE.Resource.Color.abc_tint_btn_checkable = global::BLEClient.Resource.Color.abc_tint_btn_checkable;
+			global::BLE.Resource.Color.abc_tint_default = global::BLEClient.Resource.Color.abc_tint_default;
+			global::BLE.Resource.Color.abc_tint_edittext = global::BLEClient.Resource.Color.abc_tint_edittext;
+			global::BLE.Resource.Color.abc_tint_seek_thumb = global::BLEClient.Resource.Color.abc_tint_seek_thumb;
+			global::BLE.Resource.Color.abc_tint_spinner = global::BLEClient.Resource.Color.abc_tint_spinner;
+			global::BLE.Resource.Color.abc_tint_switch_track = global::BLEClient.Resource.Color.abc_tint_switch_track;
+			global::BLE.Resource.Color.accent_material_dark = global::BLEClient.Resource.Color.accent_material_dark;
+			global::BLE.Resource.Color.accent_material_light = global::BLEClient.Resource.Color.accent_material_light;
+			global::BLE.Resource.Color.background_floating_material_dark = global::BLEClient.Resource.Color.background_floating_material_dark;
+			global::BLE.Resource.Color.background_floating_material_light = global::BLEClient.Resource.Color.background_floating_material_light;
+			global::BLE.Resource.Color.background_material_dark = global::BLEClient.Resource.Color.background_material_dark;
+			global::BLE.Resource.Color.background_material_light = global::BLEClient.Resource.Color.background_material_light;
+			global::BLE.Resource.Color.bright_foreground_disabled_material_dark = global::BLEClient.Resource.Color.bright_foreground_disabled_material_dark;
+			global::BLE.Resource.Color.bright_foreground_disabled_material_light = global::BLEClient.Resource.Color.bright_foreground_disabled_material_light;
+			global::BLE.Resource.Color.bright_foreground_inverse_material_dark = global::BLEClient.Resource.Color.bright_foreground_inverse_material_dark;
+			global::BLE.Resource.Color.bright_foreground_inverse_material_light = global::BLEClient.Resource.Color.bright_foreground_inverse_material_light;
+			global::BLE.Resource.Color.bright_foreground_material_dark = global::BLEClient.Resource.Color.bright_foreground_material_dark;
+			global::BLE.Resource.Color.bright_foreground_material_light = global::BLEClient.Resource.Color.bright_foreground_material_light;
+			global::BLE.Resource.Color.button_material_dark = global::BLEClient.Resource.Color.button_material_dark;
+			global::BLE.Resource.Color.button_material_light = global::BLEClient.Resource.Color.button_material_light;
+			global::BLE.Resource.Color.dim_foreground_disabled_material_dark = global::BLEClient.Resource.Color.dim_foreground_disabled_material_dark;
+			global::BLE.Resource.Color.dim_foreground_disabled_material_light = global::BLEClient.Resource.Color.dim_foreground_disabled_material_light;
+			global::BLE.Resource.Color.dim_foreground_material_dark = global::BLEClient.Resource.Color.dim_foreground_material_dark;
+			global::BLE.Resource.Color.dim_foreground_material_light = global::BLEClient.Resource.Color.dim_foreground_material_light;
+			global::BLE.Resource.Color.error_color_material_dark = global::BLEClient.Resource.Color.error_color_material_dark;
+			global::BLE.Resource.Color.error_color_material_light = global::BLEClient.Resource.Color.error_color_material_light;
+			global::BLE.Resource.Color.foreground_material_dark = global::BLEClient.Resource.Color.foreground_material_dark;
+			global::BLE.Resource.Color.foreground_material_light = global::BLEClient.Resource.Color.foreground_material_light;
+			global::BLE.Resource.Color.highlighted_text_material_dark = global::BLEClient.Resource.Color.highlighted_text_material_dark;
+			global::BLE.Resource.Color.highlighted_text_material_light = global::BLEClient.Resource.Color.highlighted_text_material_light;
+			global::BLE.Resource.Color.material_blue_grey_800 = global::BLEClient.Resource.Color.material_blue_grey_800;
+			global::BLE.Resource.Color.material_blue_grey_900 = global::BLEClient.Resource.Color.material_blue_grey_900;
+			global::BLE.Resource.Color.material_blue_grey_950 = global::BLEClient.Resource.Color.material_blue_grey_950;
+			global::BLE.Resource.Color.material_deep_teal_200 = global::BLEClient.Resource.Color.material_deep_teal_200;
+			global::BLE.Resource.Color.material_deep_teal_500 = global::BLEClient.Resource.Color.material_deep_teal_500;
+			global::BLE.Resource.Color.material_grey_100 = global::BLEClient.Resource.Color.material_grey_100;
+			global::BLE.Resource.Color.material_grey_300 = global::BLEClient.Resource.Color.material_grey_300;
+			global::BLE.Resource.Color.material_grey_50 = global::BLEClient.Resource.Color.material_grey_50;
+			global::BLE.Resource.Color.material_grey_600 = global::BLEClient.Resource.Color.material_grey_600;
+			global::BLE.Resource.Color.material_grey_800 = global::BLEClient.Resource.Color.material_grey_800;
+			global::BLE.Resource.Color.material_grey_850 = global::BLEClient.Resource.Color.material_grey_850;
+			global::BLE.Resource.Color.material_grey_900 = global::BLEClient.Resource.Color.material_grey_900;
+			global::BLE.Resource.Color.notification_action_color_filter = global::BLEClient.Resource.Color.notification_action_color_filter;
+			global::BLE.Resource.Color.notification_icon_bg_color = global::BLEClient.Resource.Color.notification_icon_bg_color;
+			global::BLE.Resource.Color.primary_dark_material_dark = global::BLEClient.Resource.Color.primary_dark_material_dark;
+			global::BLE.Resource.Color.primary_dark_material_light = global::BLEClient.Resource.Color.primary_dark_material_light;
+			global::BLE.Resource.Color.primary_material_dark = global::BLEClient.Resource.Color.primary_material_dark;
+			global::BLE.Resource.Color.primary_material_light = global::BLEClient.Resource.Color.primary_material_light;
+			global::BLE.Resource.Color.primary_text_default_material_dark = global::BLEClient.Resource.Color.primary_text_default_material_dark;
+			global::BLE.Resource.Color.primary_text_default_material_light = global::BLEClient.Resource.Color.primary_text_default_material_light;
+			global::BLE.Resource.Color.primary_text_disabled_material_dark = global::BLEClient.Resource.Color.primary_text_disabled_material_dark;
+			global::BLE.Resource.Color.primary_text_disabled_material_light = global::BLEClient.Resource.Color.primary_text_disabled_material_light;
+			global::BLE.Resource.Color.ripple_material_dark = global::BLEClient.Resource.Color.ripple_material_dark;
+			global::BLE.Resource.Color.ripple_material_light = global::BLEClient.Resource.Color.ripple_material_light;
+			global::BLE.Resource.Color.secondary_text_default_material_dark = global::BLEClient.Resource.Color.secondary_text_default_material_dark;
+			global::BLE.Resource.Color.secondary_text_default_material_light = global::BLEClient.Resource.Color.secondary_text_default_material_light;
+			global::BLE.Resource.Color.secondary_text_disabled_material_dark = global::BLEClient.Resource.Color.secondary_text_disabled_material_dark;
+			global::BLE.Resource.Color.secondary_text_disabled_material_light = global::BLEClient.Resource.Color.secondary_text_disabled_material_light;
+			global::BLE.Resource.Color.switch_thumb_disabled_material_dark = global::BLEClient.Resource.Color.switch_thumb_disabled_material_dark;
+			global::BLE.Resource.Color.switch_thumb_disabled_material_light = global::BLEClient.Resource.Color.switch_thumb_disabled_material_light;
+			global::BLE.Resource.Color.switch_thumb_material_dark = global::BLEClient.Resource.Color.switch_thumb_material_dark;
+			global::BLE.Resource.Color.switch_thumb_material_light = global::BLEClient.Resource.Color.switch_thumb_material_light;
+			global::BLE.Resource.Color.switch_thumb_normal_material_dark = global::BLEClient.Resource.Color.switch_thumb_normal_material_dark;
+			global::BLE.Resource.Color.switch_thumb_normal_material_light = global::BLEClient.Resource.Color.switch_thumb_normal_material_light;
+			global::BLE.Resource.Color.tooltip_background_dark = global::BLEClient.Resource.Color.tooltip_background_dark;
+			global::BLE.Resource.Color.tooltip_background_light = global::BLEClient.Resource.Color.tooltip_background_light;
+			global::BLE.Resource.Dimension.abc_action_bar_content_inset_material = global::BLEClient.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::BLE.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::BLEClient.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::BLE.Resource.Dimension.abc_action_bar_default_height_material = global::BLEClient.Resource.Dimension.abc_action_bar_default_height_material;
+			global::BLE.Resource.Dimension.abc_action_bar_default_padding_end_material = global::BLEClient.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::BLE.Resource.Dimension.abc_action_bar_default_padding_start_material = global::BLEClient.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::BLE.Resource.Dimension.abc_action_bar_elevation_material = global::BLEClient.Resource.Dimension.abc_action_bar_elevation_material;
+			global::BLE.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::BLEClient.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::BLE.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::BLEClient.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::BLE.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::BLEClient.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::BLE.Resource.Dimension.abc_action_bar_stacked_max_height = global::BLEClient.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::BLE.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::BLEClient.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::BLE.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::BLEClient.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::BLE.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::BLEClient.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::BLE.Resource.Dimension.abc_action_button_min_height_material = global::BLEClient.Resource.Dimension.abc_action_button_min_height_material;
+			global::BLE.Resource.Dimension.abc_action_button_min_width_material = global::BLEClient.Resource.Dimension.abc_action_button_min_width_material;
+			global::BLE.Resource.Dimension.abc_action_button_min_width_overflow_material = global::BLEClient.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::BLE.Resource.Dimension.abc_alert_dialog_button_bar_height = global::BLEClient.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::BLE.Resource.Dimension.abc_alert_dialog_button_dimen = global::BLEClient.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::BLE.Resource.Dimension.abc_button_inset_horizontal_material = global::BLEClient.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::BLE.Resource.Dimension.abc_button_inset_vertical_material = global::BLEClient.Resource.Dimension.abc_button_inset_vertical_material;
+			global::BLE.Resource.Dimension.abc_button_padding_horizontal_material = global::BLEClient.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::BLE.Resource.Dimension.abc_button_padding_vertical_material = global::BLEClient.Resource.Dimension.abc_button_padding_vertical_material;
+			global::BLE.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::BLEClient.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::BLE.Resource.Dimension.abc_config_prefDialogWidth = global::BLEClient.Resource.Dimension.abc_config_prefDialogWidth;
+			global::BLE.Resource.Dimension.abc_control_corner_material = global::BLEClient.Resource.Dimension.abc_control_corner_material;
+			global::BLE.Resource.Dimension.abc_control_inset_material = global::BLEClient.Resource.Dimension.abc_control_inset_material;
+			global::BLE.Resource.Dimension.abc_control_padding_material = global::BLEClient.Resource.Dimension.abc_control_padding_material;
+			global::BLE.Resource.Dimension.abc_dialog_corner_radius_material = global::BLEClient.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::BLE.Resource.Dimension.abc_dialog_fixed_height_major = global::BLEClient.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::BLE.Resource.Dimension.abc_dialog_fixed_height_minor = global::BLEClient.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::BLE.Resource.Dimension.abc_dialog_fixed_width_major = global::BLEClient.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::BLE.Resource.Dimension.abc_dialog_fixed_width_minor = global::BLEClient.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::BLE.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::BLEClient.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::BLE.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::BLEClient.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::BLE.Resource.Dimension.abc_dialog_min_width_major = global::BLEClient.Resource.Dimension.abc_dialog_min_width_major;
+			global::BLE.Resource.Dimension.abc_dialog_min_width_minor = global::BLEClient.Resource.Dimension.abc_dialog_min_width_minor;
+			global::BLE.Resource.Dimension.abc_dialog_padding_material = global::BLEClient.Resource.Dimension.abc_dialog_padding_material;
+			global::BLE.Resource.Dimension.abc_dialog_padding_top_material = global::BLEClient.Resource.Dimension.abc_dialog_padding_top_material;
+			global::BLE.Resource.Dimension.abc_dialog_title_divider_material = global::BLEClient.Resource.Dimension.abc_dialog_title_divider_material;
+			global::BLE.Resource.Dimension.abc_disabled_alpha_material_dark = global::BLEClient.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::BLE.Resource.Dimension.abc_disabled_alpha_material_light = global::BLEClient.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::BLE.Resource.Dimension.abc_dropdownitem_icon_width = global::BLEClient.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::BLE.Resource.Dimension.abc_dropdownitem_text_padding_left = global::BLEClient.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::BLE.Resource.Dimension.abc_dropdownitem_text_padding_right = global::BLEClient.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::BLE.Resource.Dimension.abc_edit_text_inset_bottom_material = global::BLEClient.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::BLE.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::BLEClient.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::BLE.Resource.Dimension.abc_edit_text_inset_top_material = global::BLEClient.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::BLE.Resource.Dimension.abc_floating_window_z = global::BLEClient.Resource.Dimension.abc_floating_window_z;
+			global::BLE.Resource.Dimension.abc_list_item_padding_horizontal_material = global::BLEClient.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::BLE.Resource.Dimension.abc_panel_menu_list_width = global::BLEClient.Resource.Dimension.abc_panel_menu_list_width;
+			global::BLE.Resource.Dimension.abc_progress_bar_height_material = global::BLEClient.Resource.Dimension.abc_progress_bar_height_material;
+			global::BLE.Resource.Dimension.abc_search_view_preferred_height = global::BLEClient.Resource.Dimension.abc_search_view_preferred_height;
+			global::BLE.Resource.Dimension.abc_search_view_preferred_width = global::BLEClient.Resource.Dimension.abc_search_view_preferred_width;
+			global::BLE.Resource.Dimension.abc_seekbar_track_background_height_material = global::BLEClient.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::BLE.Resource.Dimension.abc_seekbar_track_progress_height_material = global::BLEClient.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::BLE.Resource.Dimension.abc_select_dialog_padding_start_material = global::BLEClient.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::BLE.Resource.Dimension.abc_switch_padding = global::BLEClient.Resource.Dimension.abc_switch_padding;
+			global::BLE.Resource.Dimension.abc_text_size_body_1_material = global::BLEClient.Resource.Dimension.abc_text_size_body_1_material;
+			global::BLE.Resource.Dimension.abc_text_size_body_2_material = global::BLEClient.Resource.Dimension.abc_text_size_body_2_material;
+			global::BLE.Resource.Dimension.abc_text_size_button_material = global::BLEClient.Resource.Dimension.abc_text_size_button_material;
+			global::BLE.Resource.Dimension.abc_text_size_caption_material = global::BLEClient.Resource.Dimension.abc_text_size_caption_material;
+			global::BLE.Resource.Dimension.abc_text_size_display_1_material = global::BLEClient.Resource.Dimension.abc_text_size_display_1_material;
+			global::BLE.Resource.Dimension.abc_text_size_display_2_material = global::BLEClient.Resource.Dimension.abc_text_size_display_2_material;
+			global::BLE.Resource.Dimension.abc_text_size_display_3_material = global::BLEClient.Resource.Dimension.abc_text_size_display_3_material;
+			global::BLE.Resource.Dimension.abc_text_size_display_4_material = global::BLEClient.Resource.Dimension.abc_text_size_display_4_material;
+			global::BLE.Resource.Dimension.abc_text_size_headline_material = global::BLEClient.Resource.Dimension.abc_text_size_headline_material;
+			global::BLE.Resource.Dimension.abc_text_size_large_material = global::BLEClient.Resource.Dimension.abc_text_size_large_material;
+			global::BLE.Resource.Dimension.abc_text_size_medium_material = global::BLEClient.Resource.Dimension.abc_text_size_medium_material;
+			global::BLE.Resource.Dimension.abc_text_size_menu_header_material = global::BLEClient.Resource.Dimension.abc_text_size_menu_header_material;
+			global::BLE.Resource.Dimension.abc_text_size_menu_material = global::BLEClient.Resource.Dimension.abc_text_size_menu_material;
+			global::BLE.Resource.Dimension.abc_text_size_small_material = global::BLEClient.Resource.Dimension.abc_text_size_small_material;
+			global::BLE.Resource.Dimension.abc_text_size_subhead_material = global::BLEClient.Resource.Dimension.abc_text_size_subhead_material;
+			global::BLE.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::BLEClient.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::BLE.Resource.Dimension.abc_text_size_title_material = global::BLEClient.Resource.Dimension.abc_text_size_title_material;
+			global::BLE.Resource.Dimension.abc_text_size_title_material_toolbar = global::BLEClient.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::BLE.Resource.Dimension.compat_button_inset_horizontal_material = global::BLEClient.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::BLE.Resource.Dimension.compat_button_inset_vertical_material = global::BLEClient.Resource.Dimension.compat_button_inset_vertical_material;
+			global::BLE.Resource.Dimension.compat_button_padding_horizontal_material = global::BLEClient.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::BLE.Resource.Dimension.compat_button_padding_vertical_material = global::BLEClient.Resource.Dimension.compat_button_padding_vertical_material;
+			global::BLE.Resource.Dimension.compat_control_corner_material = global::BLEClient.Resource.Dimension.compat_control_corner_material;
+			global::BLE.Resource.Dimension.compat_notification_large_icon_max_height = global::BLEClient.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::BLE.Resource.Dimension.compat_notification_large_icon_max_width = global::BLEClient.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::BLE.Resource.Dimension.disabled_alpha_material_dark = global::BLEClient.Resource.Dimension.disabled_alpha_material_dark;
+			global::BLE.Resource.Dimension.disabled_alpha_material_light = global::BLEClient.Resource.Dimension.disabled_alpha_material_light;
+			global::BLE.Resource.Dimension.highlight_alpha_material_colored = global::BLEClient.Resource.Dimension.highlight_alpha_material_colored;
+			global::BLE.Resource.Dimension.highlight_alpha_material_dark = global::BLEClient.Resource.Dimension.highlight_alpha_material_dark;
+			global::BLE.Resource.Dimension.highlight_alpha_material_light = global::BLEClient.Resource.Dimension.highlight_alpha_material_light;
+			global::BLE.Resource.Dimension.hint_alpha_material_dark = global::BLEClient.Resource.Dimension.hint_alpha_material_dark;
+			global::BLE.Resource.Dimension.hint_alpha_material_light = global::BLEClient.Resource.Dimension.hint_alpha_material_light;
+			global::BLE.Resource.Dimension.hint_pressed_alpha_material_dark = global::BLEClient.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::BLE.Resource.Dimension.hint_pressed_alpha_material_light = global::BLEClient.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::BLE.Resource.Dimension.notification_action_icon_size = global::BLEClient.Resource.Dimension.notification_action_icon_size;
+			global::BLE.Resource.Dimension.notification_action_text_size = global::BLEClient.Resource.Dimension.notification_action_text_size;
+			global::BLE.Resource.Dimension.notification_big_circle_margin = global::BLEClient.Resource.Dimension.notification_big_circle_margin;
+			global::BLE.Resource.Dimension.notification_content_margin_start = global::BLEClient.Resource.Dimension.notification_content_margin_start;
+			global::BLE.Resource.Dimension.notification_large_icon_height = global::BLEClient.Resource.Dimension.notification_large_icon_height;
+			global::BLE.Resource.Dimension.notification_large_icon_width = global::BLEClient.Resource.Dimension.notification_large_icon_width;
+			global::BLE.Resource.Dimension.notification_main_column_padding_top = global::BLEClient.Resource.Dimension.notification_main_column_padding_top;
+			global::BLE.Resource.Dimension.notification_media_narrow_margin = global::BLEClient.Resource.Dimension.notification_media_narrow_margin;
+			global::BLE.Resource.Dimension.notification_right_icon_size = global::BLEClient.Resource.Dimension.notification_right_icon_size;
+			global::BLE.Resource.Dimension.notification_right_side_padding_top = global::BLEClient.Resource.Dimension.notification_right_side_padding_top;
+			global::BLE.Resource.Dimension.notification_small_icon_background_padding = global::BLEClient.Resource.Dimension.notification_small_icon_background_padding;
+			global::BLE.Resource.Dimension.notification_small_icon_size_as_large = global::BLEClient.Resource.Dimension.notification_small_icon_size_as_large;
+			global::BLE.Resource.Dimension.notification_subtext_size = global::BLEClient.Resource.Dimension.notification_subtext_size;
+			global::BLE.Resource.Dimension.notification_top_pad = global::BLEClient.Resource.Dimension.notification_top_pad;
+			global::BLE.Resource.Dimension.notification_top_pad_large_text = global::BLEClient.Resource.Dimension.notification_top_pad_large_text;
+			global::BLE.Resource.Dimension.tooltip_corner_radius = global::BLEClient.Resource.Dimension.tooltip_corner_radius;
+			global::BLE.Resource.Dimension.tooltip_horizontal_padding = global::BLEClient.Resource.Dimension.tooltip_horizontal_padding;
+			global::BLE.Resource.Dimension.tooltip_margin = global::BLEClient.Resource.Dimension.tooltip_margin;
+			global::BLE.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::BLEClient.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::BLE.Resource.Dimension.tooltip_precise_anchor_threshold = global::BLEClient.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::BLE.Resource.Dimension.tooltip_vertical_padding = global::BLEClient.Resource.Dimension.tooltip_vertical_padding;
+			global::BLE.Resource.Dimension.tooltip_y_offset_non_touch = global::BLEClient.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::BLE.Resource.Dimension.tooltip_y_offset_touch = global::BLEClient.Resource.Dimension.tooltip_y_offset_touch;
+			global::BLE.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_action_bar_item_background_material = global::BLEClient.Resource.Drawable.abc_action_bar_item_background_material;
+			global::BLE.Resource.Drawable.abc_btn_borderless_material = global::BLEClient.Resource.Drawable.abc_btn_borderless_material;
+			global::BLE.Resource.Drawable.abc_btn_check_material = global::BLEClient.Resource.Drawable.abc_btn_check_material;
+			global::BLE.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::BLEClient.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::BLE.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::BLEClient.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::BLE.Resource.Drawable.abc_btn_colored_material = global::BLEClient.Resource.Drawable.abc_btn_colored_material;
+			global::BLE.Resource.Drawable.abc_btn_default_mtrl_shape = global::BLEClient.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::BLE.Resource.Drawable.abc_btn_radio_material = global::BLEClient.Resource.Drawable.abc_btn_radio_material;
+			global::BLE.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::BLEClient.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::BLE.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::BLEClient.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::BLE.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::BLEClient.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::BLE.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::BLEClient.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::BLE.Resource.Drawable.abc_cab_background_internal_bg = global::BLEClient.Resource.Drawable.abc_cab_background_internal_bg;
+			global::BLE.Resource.Drawable.abc_cab_background_top_material = global::BLEClient.Resource.Drawable.abc_cab_background_top_material;
+			global::BLE.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_control_background_material = global::BLEClient.Resource.Drawable.abc_control_background_material;
+			global::BLE.Resource.Drawable.abc_dialog_material_background = global::BLEClient.Resource.Drawable.abc_dialog_material_background;
+			global::BLE.Resource.Drawable.abc_edit_text_material = global::BLEClient.Resource.Drawable.abc_edit_text_material;
+			global::BLE.Resource.Drawable.abc_ic_ab_back_material = global::BLEClient.Resource.Drawable.abc_ic_ab_back_material;
+			global::BLE.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::BLEClient.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::BLE.Resource.Drawable.abc_ic_clear_material = global::BLEClient.Resource.Drawable.abc_ic_clear_material;
+			global::BLE.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_ic_go_search_api_material = global::BLEClient.Resource.Drawable.abc_ic_go_search_api_material;
+			global::BLE.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::BLEClient.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::BLE.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_ic_menu_overflow_material = global::BLEClient.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::BLE.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::BLEClient.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::BLE.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_ic_search_api_material = global::BLEClient.Resource.Drawable.abc_ic_search_api_material;
+			global::BLE.Resource.Drawable.abc_ic_star_black_16dp = global::BLEClient.Resource.Drawable.abc_ic_star_black_16dp;
+			global::BLE.Resource.Drawable.abc_ic_star_black_36dp = global::BLEClient.Resource.Drawable.abc_ic_star_black_36dp;
+			global::BLE.Resource.Drawable.abc_ic_star_black_48dp = global::BLEClient.Resource.Drawable.abc_ic_star_black_48dp;
+			global::BLE.Resource.Drawable.abc_ic_star_half_black_16dp = global::BLEClient.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::BLE.Resource.Drawable.abc_ic_star_half_black_36dp = global::BLEClient.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::BLE.Resource.Drawable.abc_ic_star_half_black_48dp = global::BLEClient.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::BLE.Resource.Drawable.abc_ic_voice_search_api_material = global::BLEClient.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::BLE.Resource.Drawable.abc_item_background_holo_dark = global::BLEClient.Resource.Drawable.abc_item_background_holo_dark;
+			global::BLE.Resource.Drawable.abc_item_background_holo_light = global::BLEClient.Resource.Drawable.abc_item_background_holo_light;
+			global::BLE.Resource.Drawable.abc_list_divider_material = global::BLEClient.Resource.Drawable.abc_list_divider_material;
+			global::BLE.Resource.Drawable.abc_list_divider_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_list_focused_holo = global::BLEClient.Resource.Drawable.abc_list_focused_holo;
+			global::BLE.Resource.Drawable.abc_list_longpressed_holo = global::BLEClient.Resource.Drawable.abc_list_longpressed_holo;
+			global::BLE.Resource.Drawable.abc_list_pressed_holo_dark = global::BLEClient.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::BLE.Resource.Drawable.abc_list_pressed_holo_light = global::BLEClient.Resource.Drawable.abc_list_pressed_holo_light;
+			global::BLE.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::BLEClient.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::BLE.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::BLEClient.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::BLE.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::BLEClient.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::BLE.Resource.Drawable.abc_list_selector_disabled_holo_light = global::BLEClient.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::BLE.Resource.Drawable.abc_list_selector_holo_dark = global::BLEClient.Resource.Drawable.abc_list_selector_holo_dark;
+			global::BLE.Resource.Drawable.abc_list_selector_holo_light = global::BLEClient.Resource.Drawable.abc_list_selector_holo_light;
+			global::BLE.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::BLEClient.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::BLE.Resource.Drawable.abc_popup_background_mtrl_mult = global::BLEClient.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::BLE.Resource.Drawable.abc_ratingbar_indicator_material = global::BLEClient.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::BLE.Resource.Drawable.abc_ratingbar_material = global::BLEClient.Resource.Drawable.abc_ratingbar_material;
+			global::BLE.Resource.Drawable.abc_ratingbar_small_material = global::BLEClient.Resource.Drawable.abc_ratingbar_small_material;
+			global::BLE.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::BLEClient.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::BLE.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::BLEClient.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::BLE.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_seekbar_thumb_material = global::BLEClient.Resource.Drawable.abc_seekbar_thumb_material;
+			global::BLE.Resource.Drawable.abc_seekbar_tick_mark_material = global::BLEClient.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::BLE.Resource.Drawable.abc_seekbar_track_material = global::BLEClient.Resource.Drawable.abc_seekbar_track_material;
+			global::BLE.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::BLEClient.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::BLE.Resource.Drawable.abc_spinner_textfield_background_material = global::BLEClient.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::BLE.Resource.Drawable.abc_switch_thumb_material = global::BLEClient.Resource.Drawable.abc_switch_thumb_material;
+			global::BLE.Resource.Drawable.abc_switch_track_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_tab_indicator_material = global::BLEClient.Resource.Drawable.abc_tab_indicator_material;
+			global::BLE.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::BLEClient.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::BLE.Resource.Drawable.abc_textfield_search_material = global::BLEClient.Resource.Drawable.abc_textfield_search_material;
+			global::BLE.Resource.Drawable.abc_text_cursor_material = global::BLEClient.Resource.Drawable.abc_text_cursor_material;
+			global::BLE.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::BLEClient.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::BLE.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::BLEClient.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::BLE.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::BLEClient.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::BLE.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::BLEClient.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::BLE.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::BLEClient.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::BLE.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::BLEClient.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::BLE.Resource.Drawable.abc_vector_test = global::BLEClient.Resource.Drawable.abc_vector_test;
+			global::BLE.Resource.Drawable.notification_action_background = global::BLEClient.Resource.Drawable.notification_action_background;
+			global::BLE.Resource.Drawable.notification_bg = global::BLEClient.Resource.Drawable.notification_bg;
+			global::BLE.Resource.Drawable.notification_bg_low = global::BLEClient.Resource.Drawable.notification_bg_low;
+			global::BLE.Resource.Drawable.notification_bg_low_normal = global::BLEClient.Resource.Drawable.notification_bg_low_normal;
+			global::BLE.Resource.Drawable.notification_bg_low_pressed = global::BLEClient.Resource.Drawable.notification_bg_low_pressed;
+			global::BLE.Resource.Drawable.notification_bg_normal = global::BLEClient.Resource.Drawable.notification_bg_normal;
+			global::BLE.Resource.Drawable.notification_bg_normal_pressed = global::BLEClient.Resource.Drawable.notification_bg_normal_pressed;
+			global::BLE.Resource.Drawable.notification_icon_background = global::BLEClient.Resource.Drawable.notification_icon_background;
+			global::BLE.Resource.Drawable.notification_template_icon_bg = global::BLEClient.Resource.Drawable.notification_template_icon_bg;
+			global::BLE.Resource.Drawable.notification_template_icon_low_bg = global::BLEClient.Resource.Drawable.notification_template_icon_low_bg;
+			global::BLE.Resource.Drawable.notification_tile_bg = global::BLEClient.Resource.Drawable.notification_tile_bg;
+			global::BLE.Resource.Drawable.notify_panel_notification_icon_bg = global::BLEClient.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::BLE.Resource.Drawable.tooltip_frame_dark = global::BLEClient.Resource.Drawable.tooltip_frame_dark;
+			global::BLE.Resource.Drawable.tooltip_frame_light = global::BLEClient.Resource.Drawable.tooltip_frame_light;
+			global::BLE.Resource.Id.actions = global::BLEClient.Resource.Id.actions;
+			global::BLE.Resource.Id.action_bar = global::BLEClient.Resource.Id.action_bar;
+			global::BLE.Resource.Id.action_bar_activity_content = global::BLEClient.Resource.Id.action_bar_activity_content;
+			global::BLE.Resource.Id.action_bar_container = global::BLEClient.Resource.Id.action_bar_container;
+			global::BLE.Resource.Id.action_bar_root = global::BLEClient.Resource.Id.action_bar_root;
+			global::BLE.Resource.Id.action_bar_spinner = global::BLEClient.Resource.Id.action_bar_spinner;
+			global::BLE.Resource.Id.action_bar_subtitle = global::BLEClient.Resource.Id.action_bar_subtitle;
+			global::BLE.Resource.Id.action_bar_title = global::BLEClient.Resource.Id.action_bar_title;
+			global::BLE.Resource.Id.action_container = global::BLEClient.Resource.Id.action_container;
+			global::BLE.Resource.Id.action_context_bar = global::BLEClient.Resource.Id.action_context_bar;
+			global::BLE.Resource.Id.action_divider = global::BLEClient.Resource.Id.action_divider;
+			global::BLE.Resource.Id.action_image = global::BLEClient.Resource.Id.action_image;
+			global::BLE.Resource.Id.action_menu_divider = global::BLEClient.Resource.Id.action_menu_divider;
+			global::BLE.Resource.Id.action_menu_presenter = global::BLEClient.Resource.Id.action_menu_presenter;
+			global::BLE.Resource.Id.action_mode_bar = global::BLEClient.Resource.Id.action_mode_bar;
+			global::BLE.Resource.Id.action_mode_bar_stub = global::BLEClient.Resource.Id.action_mode_bar_stub;
+			global::BLE.Resource.Id.action_mode_close_button = global::BLEClient.Resource.Id.action_mode_close_button;
+			global::BLE.Resource.Id.action_text = global::BLEClient.Resource.Id.action_text;
+			global::BLE.Resource.Id.activity_chooser_view_content = global::BLEClient.Resource.Id.activity_chooser_view_content;
+			global::BLE.Resource.Id.add = global::BLEClient.Resource.Id.add;
+			global::BLE.Resource.Id.alertTitle = global::BLEClient.Resource.Id.alertTitle;
+			global::BLE.Resource.Id.all = global::BLEClient.Resource.Id.all;
+			global::BLE.Resource.Id.ALT = global::BLEClient.Resource.Id.ALT;
+			global::BLE.Resource.Id.always = global::BLEClient.Resource.Id.always;
+			global::BLE.Resource.Id.async = global::BLEClient.Resource.Id.async;
+			global::BLE.Resource.Id.beginning = global::BLEClient.Resource.Id.beginning;
+			global::BLE.Resource.Id.blocking = global::BLEClient.Resource.Id.blocking;
+			global::BLE.Resource.Id.bottom = global::BLEClient.Resource.Id.bottom;
+			global::BLE.Resource.Id.buttonPanel = global::BLEClient.Resource.Id.buttonPanel;
+			global::BLE.Resource.Id.center = global::BLEClient.Resource.Id.center;
+			global::BLE.Resource.Id.center_horizontal = global::BLEClient.Resource.Id.center_horizontal;
+			global::BLE.Resource.Id.center_vertical = global::BLEClient.Resource.Id.center_vertical;
+			global::BLE.Resource.Id.checkbox = global::BLEClient.Resource.Id.checkbox;
+			global::BLE.Resource.Id.chronometer = global::BLEClient.Resource.Id.chronometer;
+			global::BLE.Resource.Id.clip_horizontal = global::BLEClient.Resource.Id.clip_horizontal;
+			global::BLE.Resource.Id.clip_vertical = global::BLEClient.Resource.Id.clip_vertical;
+			global::BLE.Resource.Id.collapseActionView = global::BLEClient.Resource.Id.collapseActionView;
+			global::BLE.Resource.Id.content = global::BLEClient.Resource.Id.content;
+			global::BLE.Resource.Id.contentPanel = global::BLEClient.Resource.Id.contentPanel;
+			global::BLE.Resource.Id.CTRL = global::BLEClient.Resource.Id.CTRL;
+			global::BLE.Resource.Id.custom = global::BLEClient.Resource.Id.custom;
+			global::BLE.Resource.Id.customPanel = global::BLEClient.Resource.Id.customPanel;
+			global::BLE.Resource.Id.decor_content_parent = global::BLEClient.Resource.Id.decor_content_parent;
+			global::BLE.Resource.Id.default_activity_button = global::BLEClient.Resource.Id.default_activity_button;
+			global::BLE.Resource.Id.disableHome = global::BLEClient.Resource.Id.disableHome;
+			global::BLE.Resource.Id.edit_query = global::BLEClient.Resource.Id.edit_query;
+			global::BLE.Resource.Id.end = global::BLEClient.Resource.Id.end;
+			global::BLE.Resource.Id.expanded_menu = global::BLEClient.Resource.Id.expanded_menu;
+			global::BLE.Resource.Id.expand_activities_button = global::BLEClient.Resource.Id.expand_activities_button;
+			global::BLE.Resource.Id.fill = global::BLEClient.Resource.Id.fill;
+			global::BLE.Resource.Id.fill_horizontal = global::BLEClient.Resource.Id.fill_horizontal;
+			global::BLE.Resource.Id.fill_vertical = global::BLEClient.Resource.Id.fill_vertical;
+			global::BLE.Resource.Id.forever = global::BLEClient.Resource.Id.forever;
+			global::BLE.Resource.Id.FUNCTION = global::BLEClient.Resource.Id.FUNCTION;
+			global::BLE.Resource.Id.group_divider = global::BLEClient.Resource.Id.group_divider;
+			global::BLE.Resource.Id.home = global::BLEClient.Resource.Id.home;
+			global::BLE.Resource.Id.homeAsUp = global::BLEClient.Resource.Id.homeAsUp;
+			global::BLE.Resource.Id.icon = global::BLEClient.Resource.Id.icon;
+			global::BLE.Resource.Id.icon_group = global::BLEClient.Resource.Id.icon_group;
+			global::BLE.Resource.Id.ifRoom = global::BLEClient.Resource.Id.ifRoom;
+			global::BLE.Resource.Id.image = global::BLEClient.Resource.Id.image;
+			global::BLE.Resource.Id.info = global::BLEClient.Resource.Id.info;
+			global::BLE.Resource.Id.italic = global::BLEClient.Resource.Id.italic;
+			global::BLE.Resource.Id.left = global::BLEClient.Resource.Id.left;
+			global::BLE.Resource.Id.line1 = global::BLEClient.Resource.Id.line1;
+			global::BLE.Resource.Id.line3 = global::BLEClient.Resource.Id.line3;
+			global::BLE.Resource.Id.listMode = global::BLEClient.Resource.Id.listMode;
+			global::BLE.Resource.Id.list_item = global::BLEClient.Resource.Id.list_item;
+			global::BLE.Resource.Id.message = global::BLEClient.Resource.Id.message;
+			global::BLE.Resource.Id.META = global::BLEClient.Resource.Id.META;
+			global::BLE.Resource.Id.middle = global::BLEClient.Resource.Id.middle;
+			global::BLE.Resource.Id.multiply = global::BLEClient.Resource.Id.multiply;
+			global::BLE.Resource.Id.never = global::BLEClient.Resource.Id.never;
+			global::BLE.Resource.Id.none = global::BLEClient.Resource.Id.none;
+			global::BLE.Resource.Id.normal = global::BLEClient.Resource.Id.normal;
+			global::BLE.Resource.Id.notification_background = global::BLEClient.Resource.Id.notification_background;
+			global::BLE.Resource.Id.notification_main_column = global::BLEClient.Resource.Id.notification_main_column;
+			global::BLE.Resource.Id.notification_main_column_container = global::BLEClient.Resource.Id.notification_main_column_container;
+			global::BLE.Resource.Id.parentPanel = global::BLEClient.Resource.Id.parentPanel;
+			global::BLE.Resource.Id.progress_circular = global::BLEClient.Resource.Id.progress_circular;
+			global::BLE.Resource.Id.progress_horizontal = global::BLEClient.Resource.Id.progress_horizontal;
+			global::BLE.Resource.Id.radio = global::BLEClient.Resource.Id.radio;
+			global::BLE.Resource.Id.right = global::BLEClient.Resource.Id.right;
+			global::BLE.Resource.Id.right_icon = global::BLEClient.Resource.Id.right_icon;
+			global::BLE.Resource.Id.right_side = global::BLEClient.Resource.Id.right_side;
+			global::BLE.Resource.Id.screen = global::BLEClient.Resource.Id.screen;
+			global::BLE.Resource.Id.scrollIndicatorDown = global::BLEClient.Resource.Id.scrollIndicatorDown;
+			global::BLE.Resource.Id.scrollIndicatorUp = global::BLEClient.Resource.Id.scrollIndicatorUp;
+			global::BLE.Resource.Id.scrollView = global::BLEClient.Resource.Id.scrollView;
+			global::BLE.Resource.Id.search_badge = global::BLEClient.Resource.Id.search_badge;
+			global::BLE.Resource.Id.search_bar = global::BLEClient.Resource.Id.search_bar;
+			global::BLE.Resource.Id.search_button = global::BLEClient.Resource.Id.search_button;
+			global::BLE.Resource.Id.search_close_btn = global::BLEClient.Resource.Id.search_close_btn;
+			global::BLE.Resource.Id.search_edit_frame = global::BLEClient.Resource.Id.search_edit_frame;
+			global::BLE.Resource.Id.search_go_btn = global::BLEClient.Resource.Id.search_go_btn;
+			global::BLE.Resource.Id.search_mag_icon = global::BLEClient.Resource.Id.search_mag_icon;
+			global::BLE.Resource.Id.search_plate = global::BLEClient.Resource.Id.search_plate;
+			global::BLE.Resource.Id.search_src_text = global::BLEClient.Resource.Id.search_src_text;
+			global::BLE.Resource.Id.search_voice_btn = global::BLEClient.Resource.Id.search_voice_btn;
+			global::BLE.Resource.Id.select_dialog_listview = global::BLEClient.Resource.Id.select_dialog_listview;
+			global::BLE.Resource.Id.SHIFT = global::BLEClient.Resource.Id.SHIFT;
+			global::BLE.Resource.Id.shortcut = global::BLEClient.Resource.Id.shortcut;
+			global::BLE.Resource.Id.showCustom = global::BLEClient.Resource.Id.showCustom;
+			global::BLE.Resource.Id.showHome = global::BLEClient.Resource.Id.showHome;
+			global::BLE.Resource.Id.showTitle = global::BLEClient.Resource.Id.showTitle;
+			global::BLE.Resource.Id.spacer = global::BLEClient.Resource.Id.spacer;
+			global::BLE.Resource.Id.split_action_bar = global::BLEClient.Resource.Id.split_action_bar;
+			global::BLE.Resource.Id.src_atop = global::BLEClient.Resource.Id.src_atop;
+			global::BLE.Resource.Id.src_in = global::BLEClient.Resource.Id.src_in;
+			global::BLE.Resource.Id.src_over = global::BLEClient.Resource.Id.src_over;
+			global::BLE.Resource.Id.start = global::BLEClient.Resource.Id.start;
+			global::BLE.Resource.Id.submenuarrow = global::BLEClient.Resource.Id.submenuarrow;
+			global::BLE.Resource.Id.submit_area = global::BLEClient.Resource.Id.submit_area;
+			global::BLE.Resource.Id.SYM = global::BLEClient.Resource.Id.SYM;
+			global::BLE.Resource.Id.tabMode = global::BLEClient.Resource.Id.tabMode;
+			global::BLE.Resource.Id.tag_transition_group = global::BLEClient.Resource.Id.tag_transition_group;
+			global::BLE.Resource.Id.tag_unhandled_key_event_manager = global::BLEClient.Resource.Id.tag_unhandled_key_event_manager;
+			global::BLE.Resource.Id.tag_unhandled_key_listeners = global::BLEClient.Resource.Id.tag_unhandled_key_listeners;
+			global::BLE.Resource.Id.text = global::BLEClient.Resource.Id.text;
+			global::BLE.Resource.Id.text2 = global::BLEClient.Resource.Id.text2;
+			global::BLE.Resource.Id.textSpacerNoButtons = global::BLEClient.Resource.Id.textSpacerNoButtons;
+			global::BLE.Resource.Id.textSpacerNoTitle = global::BLEClient.Resource.Id.textSpacerNoTitle;
+			global::BLE.Resource.Id.time = global::BLEClient.Resource.Id.time;
+			global::BLE.Resource.Id.title = global::BLEClient.Resource.Id.title;
+			global::BLE.Resource.Id.titleDividerNoCustom = global::BLEClient.Resource.Id.titleDividerNoCustom;
+			global::BLE.Resource.Id.title_template = global::BLEClient.Resource.Id.title_template;
+			global::BLE.Resource.Id.top = global::BLEClient.Resource.Id.top;
+			global::BLE.Resource.Id.topPanel = global::BLEClient.Resource.Id.topPanel;
+			global::BLE.Resource.Id.uniform = global::BLEClient.Resource.Id.uniform;
+			global::BLE.Resource.Id.up = global::BLEClient.Resource.Id.up;
+			global::BLE.Resource.Id.useLogo = global::BLEClient.Resource.Id.useLogo;
+			global::BLE.Resource.Id.withText = global::BLEClient.Resource.Id.withText;
+			global::BLE.Resource.Id.wrap_content = global::BLEClient.Resource.Id.wrap_content;
+			global::BLE.Resource.Integer.abc_config_activityDefaultDur = global::BLEClient.Resource.Integer.abc_config_activityDefaultDur;
+			global::BLE.Resource.Integer.abc_config_activityShortDur = global::BLEClient.Resource.Integer.abc_config_activityShortDur;
+			global::BLE.Resource.Integer.cancel_button_image_alpha = global::BLEClient.Resource.Integer.cancel_button_image_alpha;
+			global::BLE.Resource.Integer.config_tooltipAnimTime = global::BLEClient.Resource.Integer.config_tooltipAnimTime;
+			global::BLE.Resource.Integer.status_bar_notification_info_maxnum = global::BLEClient.Resource.Integer.status_bar_notification_info_maxnum;
+			global::BLE.Resource.Layout.abc_action_bar_title_item = global::BLEClient.Resource.Layout.abc_action_bar_title_item;
+			global::BLE.Resource.Layout.abc_action_bar_up_container = global::BLEClient.Resource.Layout.abc_action_bar_up_container;
+			global::BLE.Resource.Layout.abc_action_menu_item_layout = global::BLEClient.Resource.Layout.abc_action_menu_item_layout;
+			global::BLE.Resource.Layout.abc_action_menu_layout = global::BLEClient.Resource.Layout.abc_action_menu_layout;
+			global::BLE.Resource.Layout.abc_action_mode_bar = global::BLEClient.Resource.Layout.abc_action_mode_bar;
+			global::BLE.Resource.Layout.abc_action_mode_close_item_material = global::BLEClient.Resource.Layout.abc_action_mode_close_item_material;
+			global::BLE.Resource.Layout.abc_activity_chooser_view = global::BLEClient.Resource.Layout.abc_activity_chooser_view;
+			global::BLE.Resource.Layout.abc_activity_chooser_view_list_item = global::BLEClient.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::BLE.Resource.Layout.abc_alert_dialog_button_bar_material = global::BLEClient.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::BLE.Resource.Layout.abc_alert_dialog_material = global::BLEClient.Resource.Layout.abc_alert_dialog_material;
+			global::BLE.Resource.Layout.abc_alert_dialog_title_material = global::BLEClient.Resource.Layout.abc_alert_dialog_title_material;
+			global::BLE.Resource.Layout.abc_cascading_menu_item_layout = global::BLEClient.Resource.Layout.abc_cascading_menu_item_layout;
+			global::BLE.Resource.Layout.abc_dialog_title_material = global::BLEClient.Resource.Layout.abc_dialog_title_material;
+			global::BLE.Resource.Layout.abc_expanded_menu_layout = global::BLEClient.Resource.Layout.abc_expanded_menu_layout;
+			global::BLE.Resource.Layout.abc_list_menu_item_checkbox = global::BLEClient.Resource.Layout.abc_list_menu_item_checkbox;
+			global::BLE.Resource.Layout.abc_list_menu_item_icon = global::BLEClient.Resource.Layout.abc_list_menu_item_icon;
+			global::BLE.Resource.Layout.abc_list_menu_item_layout = global::BLEClient.Resource.Layout.abc_list_menu_item_layout;
+			global::BLE.Resource.Layout.abc_list_menu_item_radio = global::BLEClient.Resource.Layout.abc_list_menu_item_radio;
+			global::BLE.Resource.Layout.abc_popup_menu_header_item_layout = global::BLEClient.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::BLE.Resource.Layout.abc_popup_menu_item_layout = global::BLEClient.Resource.Layout.abc_popup_menu_item_layout;
+			global::BLE.Resource.Layout.abc_screen_content_include = global::BLEClient.Resource.Layout.abc_screen_content_include;
+			global::BLE.Resource.Layout.abc_screen_simple = global::BLEClient.Resource.Layout.abc_screen_simple;
+			global::BLE.Resource.Layout.abc_screen_simple_overlay_action_mode = global::BLEClient.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::BLE.Resource.Layout.abc_screen_toolbar = global::BLEClient.Resource.Layout.abc_screen_toolbar;
+			global::BLE.Resource.Layout.abc_search_dropdown_item_icons_2line = global::BLEClient.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::BLE.Resource.Layout.abc_search_view = global::BLEClient.Resource.Layout.abc_search_view;
+			global::BLE.Resource.Layout.abc_select_dialog_material = global::BLEClient.Resource.Layout.abc_select_dialog_material;
+			global::BLE.Resource.Layout.abc_tooltip = global::BLEClient.Resource.Layout.abc_tooltip;
+			global::BLE.Resource.Layout.notification_action = global::BLEClient.Resource.Layout.notification_action;
+			global::BLE.Resource.Layout.notification_action_tombstone = global::BLEClient.Resource.Layout.notification_action_tombstone;
+			global::BLE.Resource.Layout.notification_template_custom_big = global::BLEClient.Resource.Layout.notification_template_custom_big;
+			global::BLE.Resource.Layout.notification_template_icon_group = global::BLEClient.Resource.Layout.notification_template_icon_group;
+			global::BLE.Resource.Layout.notification_template_part_chronometer = global::BLEClient.Resource.Layout.notification_template_part_chronometer;
+			global::BLE.Resource.Layout.notification_template_part_time = global::BLEClient.Resource.Layout.notification_template_part_time;
+			global::BLE.Resource.Layout.select_dialog_item_material = global::BLEClient.Resource.Layout.select_dialog_item_material;
+			global::BLE.Resource.Layout.select_dialog_multichoice_material = global::BLEClient.Resource.Layout.select_dialog_multichoice_material;
+			global::BLE.Resource.Layout.select_dialog_singlechoice_material = global::BLEClient.Resource.Layout.select_dialog_singlechoice_material;
+			global::BLE.Resource.Layout.support_simple_spinner_dropdown_item = global::BLEClient.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::BLE.Resource.String.abc_action_bar_home_description = global::BLEClient.Resource.String.abc_action_bar_home_description;
+			global::BLE.Resource.String.abc_action_bar_up_description = global::BLEClient.Resource.String.abc_action_bar_up_description;
+			global::BLE.Resource.String.abc_action_menu_overflow_description = global::BLEClient.Resource.String.abc_action_menu_overflow_description;
+			global::BLE.Resource.String.abc_action_mode_done = global::BLEClient.Resource.String.abc_action_mode_done;
+			global::BLE.Resource.String.abc_activitychooserview_choose_application = global::BLEClient.Resource.String.abc_activitychooserview_choose_application;
+			global::BLE.Resource.String.abc_activity_chooser_view_see_all = global::BLEClient.Resource.String.abc_activity_chooser_view_see_all;
+			global::BLE.Resource.String.abc_capital_off = global::BLEClient.Resource.String.abc_capital_off;
+			global::BLE.Resource.String.abc_capital_on = global::BLEClient.Resource.String.abc_capital_on;
+			global::BLE.Resource.String.abc_font_family_body_1_material = global::BLEClient.Resource.String.abc_font_family_body_1_material;
+			global::BLE.Resource.String.abc_font_family_body_2_material = global::BLEClient.Resource.String.abc_font_family_body_2_material;
+			global::BLE.Resource.String.abc_font_family_button_material = global::BLEClient.Resource.String.abc_font_family_button_material;
+			global::BLE.Resource.String.abc_font_family_caption_material = global::BLEClient.Resource.String.abc_font_family_caption_material;
+			global::BLE.Resource.String.abc_font_family_display_1_material = global::BLEClient.Resource.String.abc_font_family_display_1_material;
+			global::BLE.Resource.String.abc_font_family_display_2_material = global::BLEClient.Resource.String.abc_font_family_display_2_material;
+			global::BLE.Resource.String.abc_font_family_display_3_material = global::BLEClient.Resource.String.abc_font_family_display_3_material;
+			global::BLE.Resource.String.abc_font_family_display_4_material = global::BLEClient.Resource.String.abc_font_family_display_4_material;
+			global::BLE.Resource.String.abc_font_family_headline_material = global::BLEClient.Resource.String.abc_font_family_headline_material;
+			global::BLE.Resource.String.abc_font_family_menu_material = global::BLEClient.Resource.String.abc_font_family_menu_material;
+			global::BLE.Resource.String.abc_font_family_subhead_material = global::BLEClient.Resource.String.abc_font_family_subhead_material;
+			global::BLE.Resource.String.abc_font_family_title_material = global::BLEClient.Resource.String.abc_font_family_title_material;
+			global::BLE.Resource.String.abc_menu_alt_shortcut_label = global::BLEClient.Resource.String.abc_menu_alt_shortcut_label;
+			global::BLE.Resource.String.abc_menu_ctrl_shortcut_label = global::BLEClient.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::BLE.Resource.String.abc_menu_delete_shortcut_label = global::BLEClient.Resource.String.abc_menu_delete_shortcut_label;
+			global::BLE.Resource.String.abc_menu_enter_shortcut_label = global::BLEClient.Resource.String.abc_menu_enter_shortcut_label;
+			global::BLE.Resource.String.abc_menu_function_shortcut_label = global::BLEClient.Resource.String.abc_menu_function_shortcut_label;
+			global::BLE.Resource.String.abc_menu_meta_shortcut_label = global::BLEClient.Resource.String.abc_menu_meta_shortcut_label;
+			global::BLE.Resource.String.abc_menu_shift_shortcut_label = global::BLEClient.Resource.String.abc_menu_shift_shortcut_label;
+			global::BLE.Resource.String.abc_menu_space_shortcut_label = global::BLEClient.Resource.String.abc_menu_space_shortcut_label;
+			global::BLE.Resource.String.abc_menu_sym_shortcut_label = global::BLEClient.Resource.String.abc_menu_sym_shortcut_label;
+			global::BLE.Resource.String.abc_prepend_shortcut_label = global::BLEClient.Resource.String.abc_prepend_shortcut_label;
+			global::BLE.Resource.String.abc_searchview_description_clear = global::BLEClient.Resource.String.abc_searchview_description_clear;
+			global::BLE.Resource.String.abc_searchview_description_query = global::BLEClient.Resource.String.abc_searchview_description_query;
+			global::BLE.Resource.String.abc_searchview_description_search = global::BLEClient.Resource.String.abc_searchview_description_search;
+			global::BLE.Resource.String.abc_searchview_description_submit = global::BLEClient.Resource.String.abc_searchview_description_submit;
+			global::BLE.Resource.String.abc_searchview_description_voice = global::BLEClient.Resource.String.abc_searchview_description_voice;
+			global::BLE.Resource.String.abc_search_hint = global::BLEClient.Resource.String.abc_search_hint;
+			global::BLE.Resource.String.abc_shareactionprovider_share_with = global::BLEClient.Resource.String.abc_shareactionprovider_share_with;
+			global::BLE.Resource.String.abc_shareactionprovider_share_with_application = global::BLEClient.Resource.String.abc_shareactionprovider_share_with_application;
+			global::BLE.Resource.String.abc_toolbar_collapse_description = global::BLEClient.Resource.String.abc_toolbar_collapse_description;
+			global::BLE.Resource.String.app_name = global::BLEClient.Resource.String.app_name;
+			global::BLE.Resource.String.hello = global::BLEClient.Resource.String.hello;
+			global::BLE.Resource.String.search_menu_title = global::BLEClient.Resource.String.search_menu_title;
+			global::BLE.Resource.String.status_bar_notification_info_overflow = global::BLEClient.Resource.String.status_bar_notification_info_overflow;
+			global::BLE.Resource.Style.AlertDialog_AppCompat = global::BLEClient.Resource.Style.AlertDialog_AppCompat;
+			global::BLE.Resource.Style.AlertDialog_AppCompat_Light = global::BLEClient.Resource.Style.AlertDialog_AppCompat_Light;
+			global::BLE.Resource.Style.Animation_AppCompat_Dialog = global::BLEClient.Resource.Style.Animation_AppCompat_Dialog;
+			global::BLE.Resource.Style.Animation_AppCompat_DropDownUp = global::BLEClient.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::BLE.Resource.Style.Animation_AppCompat_Tooltip = global::BLEClient.Resource.Style.Animation_AppCompat_Tooltip;
+			global::BLE.Resource.Style.Base_AlertDialog_AppCompat = global::BLEClient.Resource.Style.Base_AlertDialog_AppCompat;
+			global::BLE.Resource.Style.Base_AlertDialog_AppCompat_Light = global::BLEClient.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::BLE.Resource.Style.Base_Animation_AppCompat_Dialog = global::BLEClient.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::BLE.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::BLEClient.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::BLE.Resource.Style.Base_Animation_AppCompat_Tooltip = global::BLEClient.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::BLE.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::BLEClient.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::BLE.Resource.Style.Base_DialogWindowTitle_AppCompat = global::BLEClient.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Button = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Large = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Small = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Title = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::BLE.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::BLEClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::BLE.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::BLEClient.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::BLE.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::BLEClient.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::BLE.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::BLEClient.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::BLE.Resource.Style.Base_ThemeOverlay_AppCompat = global::BLEClient.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::BLE.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::BLEClient.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::BLE.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::BLEClient.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::BLE.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::BLEClient.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::BLE.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::BLEClient.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::BLE.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::BLEClient.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::BLE.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::BLEClient.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::BLE.Resource.Style.Base_Theme_AppCompat = global::BLEClient.Resource.Style.Base_Theme_AppCompat;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::BLEClient.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_Dialog = global::BLEClient.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::BLEClient.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::BLEClient.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::BLEClient.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::BLEClient.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_Light = global::BLEClient.Resource.Style.Base_Theme_AppCompat_Light;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::BLEClient.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::BLEClient.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::BLEClient.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::BLEClient.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::BLEClient.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::BLE.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::BLEClient.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::BLE.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::BLEClient.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::BLE.Resource.Style.Base_V21_Theme_AppCompat = global::BLEClient.Resource.Style.Base_V21_Theme_AppCompat;
+			global::BLE.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::BLEClient.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::BLE.Resource.Style.Base_V21_Theme_AppCompat_Light = global::BLEClient.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::BLE.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::BLEClient.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::BLE.Resource.Style.Base_V22_Theme_AppCompat = global::BLEClient.Resource.Style.Base_V22_Theme_AppCompat;
+			global::BLE.Resource.Style.Base_V22_Theme_AppCompat_Light = global::BLEClient.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::BLE.Resource.Style.Base_V23_Theme_AppCompat = global::BLEClient.Resource.Style.Base_V23_Theme_AppCompat;
+			global::BLE.Resource.Style.Base_V23_Theme_AppCompat_Light = global::BLEClient.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::BLE.Resource.Style.Base_V26_Theme_AppCompat = global::BLEClient.Resource.Style.Base_V26_Theme_AppCompat;
+			global::BLE.Resource.Style.Base_V26_Theme_AppCompat_Light = global::BLEClient.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::BLE.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::BLEClient.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::BLE.Resource.Style.Base_V28_Theme_AppCompat = global::BLEClient.Resource.Style.Base_V28_Theme_AppCompat;
+			global::BLE.Resource.Style.Base_V28_Theme_AppCompat_Light = global::BLEClient.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::BLE.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::BLEClient.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::BLE.Resource.Style.Base_V7_Theme_AppCompat = global::BLEClient.Resource.Style.Base_V7_Theme_AppCompat;
+			global::BLE.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::BLEClient.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::BLE.Resource.Style.Base_V7_Theme_AppCompat_Light = global::BLEClient.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::BLE.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::BLEClient.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::BLE.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::BLEClient.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::BLE.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::BLEClient.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::BLE.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::BLEClient.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ActionBar = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ActionButton = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ActionMode = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::BLEClient.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Button = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Button;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Button_Small = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::BLEClient.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::BLEClient.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::BLEClient.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::BLEClient.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::BLEClient.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::BLEClient.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_EditText = global::BLEClient.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ImageButton = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ListView = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::BLEClient.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::BLEClient.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::BLEClient.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::BLEClient.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_RatingBar = global::BLEClient.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::BLEClient.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::BLEClient.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_SearchView = global::BLEClient.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::BLEClient.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_SeekBar = global::BLEClient.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::BLEClient.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Spinner = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::BLEClient.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Toolbar = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::BLE.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::BLEClient.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::BLE.Resource.Style.Platform_AppCompat = global::BLEClient.Resource.Style.Platform_AppCompat;
+			global::BLE.Resource.Style.Platform_AppCompat_Light = global::BLEClient.Resource.Style.Platform_AppCompat_Light;
+			global::BLE.Resource.Style.Platform_ThemeOverlay_AppCompat = global::BLEClient.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::BLE.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::BLEClient.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::BLE.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::BLEClient.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::BLE.Resource.Style.Platform_V21_AppCompat = global::BLEClient.Resource.Style.Platform_V21_AppCompat;
+			global::BLE.Resource.Style.Platform_V21_AppCompat_Light = global::BLEClient.Resource.Style.Platform_V21_AppCompat_Light;
+			global::BLE.Resource.Style.Platform_V25_AppCompat = global::BLEClient.Resource.Style.Platform_V25_AppCompat;
+			global::BLE.Resource.Style.Platform_V25_AppCompat_Light = global::BLEClient.Resource.Style.Platform_V25_AppCompat_Light;
+			global::BLE.Resource.Style.Platform_Widget_AppCompat_Spinner = global::BLEClient.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::BLE.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::BLEClient.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::BLE.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::BLEClient.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::BLE.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::BLEClient.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::BLE.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::BLEClient.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::BLE.Resource.Style.TextAppearance_AppCompat = global::BLEClient.Resource.Style.TextAppearance_AppCompat;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Body1 = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Body2 = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Button = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Button;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Caption = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Display1 = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Display2 = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Display3 = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Display4 = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Headline = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Inverse = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Large = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Large;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Medium = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Menu = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::BLEClient.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::BLEClient.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Small = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Small;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Subhead = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Title = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Title;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Tooltip = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::BLE.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::BLEClient.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::BLE.Resource.Style.TextAppearance_Compat_Notification = global::BLEClient.Resource.Style.TextAppearance_Compat_Notification;
+			global::BLE.Resource.Style.TextAppearance_Compat_Notification_Info = global::BLEClient.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::BLE.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::BLEClient.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::BLE.Resource.Style.TextAppearance_Compat_Notification_Time = global::BLEClient.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::BLE.Resource.Style.TextAppearance_Compat_Notification_Title = global::BLEClient.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::BLE.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::BLEClient.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::BLE.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::BLEClient.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::BLE.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::BLEClient.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::BLE.Resource.Style.ThemeOverlay_AppCompat = global::BLEClient.Resource.Style.ThemeOverlay_AppCompat;
+			global::BLE.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::BLEClient.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::BLE.Resource.Style.ThemeOverlay_AppCompat_Dark = global::BLEClient.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::BLE.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::BLEClient.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::BLE.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::BLEClient.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::BLE.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::BLEClient.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::BLE.Resource.Style.ThemeOverlay_AppCompat_Light = global::BLEClient.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::BLE.Resource.Style.Theme_AppCompat = global::BLEClient.Resource.Style.Theme_AppCompat;
+			global::BLE.Resource.Style.Theme_AppCompat_CompactMenu = global::BLEClient.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::BLE.Resource.Style.Theme_AppCompat_DayNight = global::BLEClient.Resource.Style.Theme_AppCompat_DayNight;
+			global::BLE.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::BLEClient.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::BLE.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::BLEClient.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::BLE.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::BLEClient.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::BLE.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::BLEClient.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::BLE.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::BLEClient.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::BLE.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::BLEClient.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::BLE.Resource.Style.Theme_AppCompat_Dialog = global::BLEClient.Resource.Style.Theme_AppCompat_Dialog;
+			global::BLE.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::BLEClient.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::BLE.Resource.Style.Theme_AppCompat_Dialog_Alert = global::BLEClient.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::BLE.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::BLEClient.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::BLE.Resource.Style.Theme_AppCompat_Light = global::BLEClient.Resource.Style.Theme_AppCompat_Light;
+			global::BLE.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::BLEClient.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::BLE.Resource.Style.Theme_AppCompat_Light_Dialog = global::BLEClient.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::BLE.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::BLEClient.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::BLE.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::BLEClient.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::BLE.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::BLEClient.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::BLE.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::BLEClient.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::BLE.Resource.Style.Theme_AppCompat_NoActionBar = global::BLEClient.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::BLE.Resource.Style.Widget_AppCompat_ActionBar = global::BLEClient.Resource.Style.Widget_AppCompat_ActionBar;
+			global::BLE.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::BLEClient.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::BLE.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::BLEClient.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::BLE.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::BLEClient.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::BLE.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::BLEClient.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::BLE.Resource.Style.Widget_AppCompat_ActionButton = global::BLEClient.Resource.Style.Widget_AppCompat_ActionButton;
+			global::BLE.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::BLEClient.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::BLE.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::BLEClient.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::BLE.Resource.Style.Widget_AppCompat_ActionMode = global::BLEClient.Resource.Style.Widget_AppCompat_ActionMode;
+			global::BLE.Resource.Style.Widget_AppCompat_ActivityChooserView = global::BLEClient.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::BLE.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::BLEClient.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::BLE.Resource.Style.Widget_AppCompat_Button = global::BLEClient.Resource.Style.Widget_AppCompat_Button;
+			global::BLE.Resource.Style.Widget_AppCompat_ButtonBar = global::BLEClient.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::BLE.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::BLEClient.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::BLE.Resource.Style.Widget_AppCompat_Button_Borderless = global::BLEClient.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::BLE.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::BLEClient.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::BLE.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::BLEClient.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::BLE.Resource.Style.Widget_AppCompat_Button_Colored = global::BLEClient.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::BLE.Resource.Style.Widget_AppCompat_Button_Small = global::BLEClient.Resource.Style.Widget_AppCompat_Button_Small;
+			global::BLE.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::BLEClient.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::BLE.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::BLEClient.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::BLE.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::BLEClient.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::BLE.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::BLEClient.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::BLE.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::BLEClient.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::BLE.Resource.Style.Widget_AppCompat_EditText = global::BLEClient.Resource.Style.Widget_AppCompat_EditText;
+			global::BLE.Resource.Style.Widget_AppCompat_ImageButton = global::BLEClient.Resource.Style.Widget_AppCompat_ImageButton;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionBar = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionButton = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::BLEClient.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::BLEClient.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::BLEClient.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::BLEClient.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::BLEClient.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_SearchView = global::BLEClient.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::BLE.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::BLEClient.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::BLE.Resource.Style.Widget_AppCompat_ListMenuView = global::BLEClient.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::BLE.Resource.Style.Widget_AppCompat_ListPopupWindow = global::BLEClient.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::BLE.Resource.Style.Widget_AppCompat_ListView = global::BLEClient.Resource.Style.Widget_AppCompat_ListView;
+			global::BLE.Resource.Style.Widget_AppCompat_ListView_DropDown = global::BLEClient.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::BLE.Resource.Style.Widget_AppCompat_ListView_Menu = global::BLEClient.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::BLE.Resource.Style.Widget_AppCompat_PopupMenu = global::BLEClient.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::BLE.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::BLEClient.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::BLE.Resource.Style.Widget_AppCompat_PopupWindow = global::BLEClient.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::BLE.Resource.Style.Widget_AppCompat_ProgressBar = global::BLEClient.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::BLE.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::BLEClient.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::BLE.Resource.Style.Widget_AppCompat_RatingBar = global::BLEClient.Resource.Style.Widget_AppCompat_RatingBar;
+			global::BLE.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::BLEClient.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::BLE.Resource.Style.Widget_AppCompat_RatingBar_Small = global::BLEClient.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::BLE.Resource.Style.Widget_AppCompat_SearchView = global::BLEClient.Resource.Style.Widget_AppCompat_SearchView;
+			global::BLE.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::BLEClient.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::BLE.Resource.Style.Widget_AppCompat_SeekBar = global::BLEClient.Resource.Style.Widget_AppCompat_SeekBar;
+			global::BLE.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::BLEClient.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::BLE.Resource.Style.Widget_AppCompat_Spinner = global::BLEClient.Resource.Style.Widget_AppCompat_Spinner;
+			global::BLE.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::BLEClient.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::BLE.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::BLEClient.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::BLE.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::BLEClient.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::BLE.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::BLEClient.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::BLE.Resource.Style.Widget_AppCompat_Toolbar = global::BLEClient.Resource.Style.Widget_AppCompat_Toolbar;
+			global::BLE.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::BLEClient.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::BLE.Resource.Style.Widget_Compat_NotificationActionContainer = global::BLEClient.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::BLE.Resource.Style.Widget_Compat_NotificationActionText = global::BLEClient.Resource.Style.Widget_Compat_NotificationActionText;
+			global::BLE.Resource.Style.Widget_Support_CoordinatorLayout = global::BLEClient.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::BLE.Resource.Styleable.ActionBar = global::BLEClient.Resource.Styleable.ActionBar;
+			global::BLE.Resource.Styleable.ActionBarLayout = global::BLEClient.Resource.Styleable.ActionBarLayout;
+			global::BLE.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::BLEClient.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::BLE.Resource.Styleable.ActionBar_background = global::BLEClient.Resource.Styleable.ActionBar_background;
+			global::BLE.Resource.Styleable.ActionBar_backgroundSplit = global::BLEClient.Resource.Styleable.ActionBar_backgroundSplit;
+			global::BLE.Resource.Styleable.ActionBar_backgroundStacked = global::BLEClient.Resource.Styleable.ActionBar_backgroundStacked;
+			global::BLE.Resource.Styleable.ActionBar_contentInsetEnd = global::BLEClient.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::BLE.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::BLEClient.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::BLE.Resource.Styleable.ActionBar_contentInsetLeft = global::BLEClient.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::BLE.Resource.Styleable.ActionBar_contentInsetRight = global::BLEClient.Resource.Styleable.ActionBar_contentInsetRight;
+			global::BLE.Resource.Styleable.ActionBar_contentInsetStart = global::BLEClient.Resource.Styleable.ActionBar_contentInsetStart;
+			global::BLE.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::BLEClient.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::BLE.Resource.Styleable.ActionBar_customNavigationLayout = global::BLEClient.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::BLE.Resource.Styleable.ActionBar_displayOptions = global::BLEClient.Resource.Styleable.ActionBar_displayOptions;
+			global::BLE.Resource.Styleable.ActionBar_divider = global::BLEClient.Resource.Styleable.ActionBar_divider;
+			global::BLE.Resource.Styleable.ActionBar_elevation = global::BLEClient.Resource.Styleable.ActionBar_elevation;
+			global::BLE.Resource.Styleable.ActionBar_height = global::BLEClient.Resource.Styleable.ActionBar_height;
+			global::BLE.Resource.Styleable.ActionBar_hideOnContentScroll = global::BLEClient.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::BLE.Resource.Styleable.ActionBar_homeAsUpIndicator = global::BLEClient.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::BLE.Resource.Styleable.ActionBar_homeLayout = global::BLEClient.Resource.Styleable.ActionBar_homeLayout;
+			global::BLE.Resource.Styleable.ActionBar_icon = global::BLEClient.Resource.Styleable.ActionBar_icon;
+			global::BLE.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::BLEClient.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::BLE.Resource.Styleable.ActionBar_itemPadding = global::BLEClient.Resource.Styleable.ActionBar_itemPadding;
+			global::BLE.Resource.Styleable.ActionBar_logo = global::BLEClient.Resource.Styleable.ActionBar_logo;
+			global::BLE.Resource.Styleable.ActionBar_navigationMode = global::BLEClient.Resource.Styleable.ActionBar_navigationMode;
+			global::BLE.Resource.Styleable.ActionBar_popupTheme = global::BLEClient.Resource.Styleable.ActionBar_popupTheme;
+			global::BLE.Resource.Styleable.ActionBar_progressBarPadding = global::BLEClient.Resource.Styleable.ActionBar_progressBarPadding;
+			global::BLE.Resource.Styleable.ActionBar_progressBarStyle = global::BLEClient.Resource.Styleable.ActionBar_progressBarStyle;
+			global::BLE.Resource.Styleable.ActionBar_subtitle = global::BLEClient.Resource.Styleable.ActionBar_subtitle;
+			global::BLE.Resource.Styleable.ActionBar_subtitleTextStyle = global::BLEClient.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::BLE.Resource.Styleable.ActionBar_title = global::BLEClient.Resource.Styleable.ActionBar_title;
+			global::BLE.Resource.Styleable.ActionBar_titleTextStyle = global::BLEClient.Resource.Styleable.ActionBar_titleTextStyle;
+			global::BLE.Resource.Styleable.ActionMenuItemView = global::BLEClient.Resource.Styleable.ActionMenuItemView;
+			global::BLE.Resource.Styleable.ActionMenuItemView_android_minWidth = global::BLEClient.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::BLE.Resource.Styleable.ActionMenuView = global::BLEClient.Resource.Styleable.ActionMenuView;
+			global::BLE.Resource.Styleable.ActionMode = global::BLEClient.Resource.Styleable.ActionMode;
+			global::BLE.Resource.Styleable.ActionMode_background = global::BLEClient.Resource.Styleable.ActionMode_background;
+			global::BLE.Resource.Styleable.ActionMode_backgroundSplit = global::BLEClient.Resource.Styleable.ActionMode_backgroundSplit;
+			global::BLE.Resource.Styleable.ActionMode_closeItemLayout = global::BLEClient.Resource.Styleable.ActionMode_closeItemLayout;
+			global::BLE.Resource.Styleable.ActionMode_height = global::BLEClient.Resource.Styleable.ActionMode_height;
+			global::BLE.Resource.Styleable.ActionMode_subtitleTextStyle = global::BLEClient.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::BLE.Resource.Styleable.ActionMode_titleTextStyle = global::BLEClient.Resource.Styleable.ActionMode_titleTextStyle;
+			global::BLE.Resource.Styleable.ActivityChooserView = global::BLEClient.Resource.Styleable.ActivityChooserView;
+			global::BLE.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::BLEClient.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::BLE.Resource.Styleable.ActivityChooserView_initialActivityCount = global::BLEClient.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::BLE.Resource.Styleable.AlertDialog = global::BLEClient.Resource.Styleable.AlertDialog;
+			global::BLE.Resource.Styleable.AlertDialog_android_layout = global::BLEClient.Resource.Styleable.AlertDialog_android_layout;
+			global::BLE.Resource.Styleable.AlertDialog_buttonIconDimen = global::BLEClient.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::BLE.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::BLEClient.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::BLE.Resource.Styleable.AlertDialog_listItemLayout = global::BLEClient.Resource.Styleable.AlertDialog_listItemLayout;
+			global::BLE.Resource.Styleable.AlertDialog_listLayout = global::BLEClient.Resource.Styleable.AlertDialog_listLayout;
+			global::BLE.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::BLEClient.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::BLE.Resource.Styleable.AlertDialog_showTitle = global::BLEClient.Resource.Styleable.AlertDialog_showTitle;
+			global::BLE.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::BLEClient.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableCompat = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableItem = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableTransition = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::BLE.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::BLEClient.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::BLE.Resource.Styleable.AppCompatImageView = global::BLEClient.Resource.Styleable.AppCompatImageView;
+			global::BLE.Resource.Styleable.AppCompatImageView_android_src = global::BLEClient.Resource.Styleable.AppCompatImageView_android_src;
+			global::BLE.Resource.Styleable.AppCompatImageView_srcCompat = global::BLEClient.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::BLE.Resource.Styleable.AppCompatImageView_tint = global::BLEClient.Resource.Styleable.AppCompatImageView_tint;
+			global::BLE.Resource.Styleable.AppCompatImageView_tintMode = global::BLEClient.Resource.Styleable.AppCompatImageView_tintMode;
+			global::BLE.Resource.Styleable.AppCompatSeekBar = global::BLEClient.Resource.Styleable.AppCompatSeekBar;
+			global::BLE.Resource.Styleable.AppCompatSeekBar_android_thumb = global::BLEClient.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::BLE.Resource.Styleable.AppCompatSeekBar_tickMark = global::BLEClient.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::BLE.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::BLEClient.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::BLE.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::BLEClient.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::BLE.Resource.Styleable.AppCompatTextHelper = global::BLEClient.Resource.Styleable.AppCompatTextHelper;
+			global::BLE.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::BLEClient.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::BLE.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::BLEClient.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::BLE.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::BLEClient.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::BLE.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::BLEClient.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::BLE.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::BLEClient.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::BLE.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::BLEClient.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::BLE.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::BLEClient.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::BLE.Resource.Styleable.AppCompatTextView = global::BLEClient.Resource.Styleable.AppCompatTextView;
+			global::BLE.Resource.Styleable.AppCompatTextView_android_textAppearance = global::BLEClient.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::BLE.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::BLEClient.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::BLE.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::BLEClient.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::BLE.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::BLEClient.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::BLE.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::BLEClient.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::BLE.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::BLEClient.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::BLE.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::BLEClient.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::BLE.Resource.Styleable.AppCompatTextView_fontFamily = global::BLEClient.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::BLE.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::BLEClient.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::BLE.Resource.Styleable.AppCompatTextView_lineHeight = global::BLEClient.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::BLE.Resource.Styleable.AppCompatTextView_textAllCaps = global::BLEClient.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::BLE.Resource.Styleable.AppCompatTheme = global::BLEClient.Resource.Styleable.AppCompatTheme;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionBarDivider = global::BLEClient.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::BLEClient.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::BLEClient.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionBarSize = global::BLEClient.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionBarStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionBarTheme = global::BLEClient.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::BLEClient.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::BLEClient.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::BLEClient.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModeBackground = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModeStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::BLEClient.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::BLEClient.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::BLE.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::BLEClient.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::BLE.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::BLEClient.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::BLE.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_buttonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::BLEClient.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::BLE.Resource.Styleable.AppCompatTheme_checkboxStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_colorAccent = global::BLEClient.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::BLE.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::BLEClient.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::BLE.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::BLEClient.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::BLE.Resource.Styleable.AppCompatTheme_colorControlActivated = global::BLEClient.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::BLE.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::BLEClient.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::BLE.Resource.Styleable.AppCompatTheme_colorControlNormal = global::BLEClient.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::BLE.Resource.Styleable.AppCompatTheme_colorError = global::BLEClient.Resource.Styleable.AppCompatTheme_colorError;
+			global::BLE.Resource.Styleable.AppCompatTheme_colorPrimary = global::BLEClient.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::BLE.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::BLEClient.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::BLE.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::BLEClient.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::BLE.Resource.Styleable.AppCompatTheme_controlBackground = global::BLEClient.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::BLE.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::BLEClient.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::BLE.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::BLEClient.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::BLE.Resource.Styleable.AppCompatTheme_dialogTheme = global::BLEClient.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::BLE.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::BLEClient.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::BLE.Resource.Styleable.AppCompatTheme_dividerVertical = global::BLEClient.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::BLE.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::BLEClient.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::BLE.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_editTextBackground = global::BLEClient.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::BLE.Resource.Styleable.AppCompatTheme_editTextColor = global::BLEClient.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::BLE.Resource.Styleable.AppCompatTheme_editTextStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::BLEClient.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::BLE.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::BLEClient.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::BLE.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::BLEClient.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::BLE.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::BLEClient.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::BLE.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::BLEClient.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::BLE.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::BLEClient.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::BLE.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::BLEClient.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::BLE.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::BLEClient.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::BLE.Resource.Styleable.AppCompatTheme_panelBackground = global::BLEClient.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::BLE.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::BLEClient.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::BLE.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::BLEClient.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::BLE.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::BLEClient.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::BLE.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::BLEClient.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::BLE.Resource.Styleable.AppCompatTheme_searchViewStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_seekBarStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::BLEClient.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::BLE.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::BLEClient.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::BLE.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_spinnerStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_switchStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::BLEClient.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::BLE.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::BLEClient.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::BLE.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::BLEClient.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::BLE.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::BLEClient.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::BLE.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::BLEClient.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::BLE.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::BLEClient.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::BLE.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::BLEClient.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::BLE.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::BLEClient.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::BLE.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::BLEClient.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::BLE.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::BLEClient.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::BLE.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_toolbarStyle = global::BLEClient.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::BLE.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::BLEClient.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::BLE.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::BLEClient.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::BLE.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::BLEClient.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::BLE.Resource.Styleable.AppCompatTheme_windowActionBar = global::BLEClient.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::BLE.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::BLEClient.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::BLE.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::BLEClient.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::BLE.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::BLEClient.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::BLE.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::BLEClient.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::BLE.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::BLEClient.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::BLE.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::BLEClient.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::BLE.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::BLEClient.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::BLE.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::BLEClient.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::BLE.Resource.Styleable.AppCompatTheme_windowNoTitle = global::BLEClient.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::BLE.Resource.Styleable.ButtonBarLayout = global::BLEClient.Resource.Styleable.ButtonBarLayout;
+			global::BLE.Resource.Styleable.ButtonBarLayout_allowStacking = global::BLEClient.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::BLE.Resource.Styleable.ColorStateListItem = global::BLEClient.Resource.Styleable.ColorStateListItem;
+			global::BLE.Resource.Styleable.ColorStateListItem_alpha = global::BLEClient.Resource.Styleable.ColorStateListItem_alpha;
+			global::BLE.Resource.Styleable.ColorStateListItem_android_alpha = global::BLEClient.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::BLE.Resource.Styleable.ColorStateListItem_android_color = global::BLEClient.Resource.Styleable.ColorStateListItem_android_color;
+			global::BLE.Resource.Styleable.CompoundButton = global::BLEClient.Resource.Styleable.CompoundButton;
+			global::BLE.Resource.Styleable.CompoundButton_android_button = global::BLEClient.Resource.Styleable.CompoundButton_android_button;
+			global::BLE.Resource.Styleable.CompoundButton_buttonTint = global::BLEClient.Resource.Styleable.CompoundButton_buttonTint;
+			global::BLE.Resource.Styleable.CompoundButton_buttonTintMode = global::BLEClient.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::BLE.Resource.Styleable.CoordinatorLayout = global::BLEClient.Resource.Styleable.CoordinatorLayout;
+			global::BLE.Resource.Styleable.CoordinatorLayout_keylines = global::BLEClient.Resource.Styleable.CoordinatorLayout_keylines;
+			global::BLE.Resource.Styleable.CoordinatorLayout_Layout = global::BLEClient.Resource.Styleable.CoordinatorLayout_Layout;
+			global::BLE.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::BLEClient.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::BLE.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::BLEClient.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::BLE.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::BLEClient.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::BLE.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::BLEClient.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::BLE.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::BLEClient.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::BLE.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::BLEClient.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::BLE.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::BLEClient.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::BLE.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::BLEClient.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::BLE.Resource.Styleable.DrawerArrowToggle = global::BLEClient.Resource.Styleable.DrawerArrowToggle;
+			global::BLE.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::BLEClient.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::BLE.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::BLEClient.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::BLE.Resource.Styleable.DrawerArrowToggle_barLength = global::BLEClient.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::BLE.Resource.Styleable.DrawerArrowToggle_color = global::BLEClient.Resource.Styleable.DrawerArrowToggle_color;
+			global::BLE.Resource.Styleable.DrawerArrowToggle_drawableSize = global::BLEClient.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::BLE.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::BLEClient.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::BLE.Resource.Styleable.DrawerArrowToggle_spinBars = global::BLEClient.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::BLE.Resource.Styleable.DrawerArrowToggle_thickness = global::BLEClient.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::BLE.Resource.Styleable.FontFamily = global::BLEClient.Resource.Styleable.FontFamily;
+			global::BLE.Resource.Styleable.FontFamilyFont = global::BLEClient.Resource.Styleable.FontFamilyFont;
+			global::BLE.Resource.Styleable.FontFamilyFont_android_font = global::BLEClient.Resource.Styleable.FontFamilyFont_android_font;
+			global::BLE.Resource.Styleable.FontFamilyFont_android_fontStyle = global::BLEClient.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::BLE.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::BLEClient.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::BLE.Resource.Styleable.FontFamilyFont_android_fontWeight = global::BLEClient.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::BLE.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::BLEClient.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::BLE.Resource.Styleable.FontFamilyFont_font = global::BLEClient.Resource.Styleable.FontFamilyFont_font;
+			global::BLE.Resource.Styleable.FontFamilyFont_fontStyle = global::BLEClient.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::BLE.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::BLEClient.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::BLE.Resource.Styleable.FontFamilyFont_fontWeight = global::BLEClient.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::BLE.Resource.Styleable.FontFamilyFont_ttcIndex = global::BLEClient.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::BLE.Resource.Styleable.FontFamily_fontProviderAuthority = global::BLEClient.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::BLE.Resource.Styleable.FontFamily_fontProviderCerts = global::BLEClient.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::BLE.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::BLEClient.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::BLE.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::BLEClient.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::BLE.Resource.Styleable.FontFamily_fontProviderPackage = global::BLEClient.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::BLE.Resource.Styleable.FontFamily_fontProviderQuery = global::BLEClient.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::BLE.Resource.Styleable.GradientColor = global::BLEClient.Resource.Styleable.GradientColor;
+			global::BLE.Resource.Styleable.GradientColorItem = global::BLEClient.Resource.Styleable.GradientColorItem;
+			global::BLE.Resource.Styleable.GradientColorItem_android_color = global::BLEClient.Resource.Styleable.GradientColorItem_android_color;
+			global::BLE.Resource.Styleable.GradientColorItem_android_offset = global::BLEClient.Resource.Styleable.GradientColorItem_android_offset;
+			global::BLE.Resource.Styleable.GradientColor_android_centerColor = global::BLEClient.Resource.Styleable.GradientColor_android_centerColor;
+			global::BLE.Resource.Styleable.GradientColor_android_centerX = global::BLEClient.Resource.Styleable.GradientColor_android_centerX;
+			global::BLE.Resource.Styleable.GradientColor_android_centerY = global::BLEClient.Resource.Styleable.GradientColor_android_centerY;
+			global::BLE.Resource.Styleable.GradientColor_android_endColor = global::BLEClient.Resource.Styleable.GradientColor_android_endColor;
+			global::BLE.Resource.Styleable.GradientColor_android_endX = global::BLEClient.Resource.Styleable.GradientColor_android_endX;
+			global::BLE.Resource.Styleable.GradientColor_android_endY = global::BLEClient.Resource.Styleable.GradientColor_android_endY;
+			global::BLE.Resource.Styleable.GradientColor_android_gradientRadius = global::BLEClient.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::BLE.Resource.Styleable.GradientColor_android_startColor = global::BLEClient.Resource.Styleable.GradientColor_android_startColor;
+			global::BLE.Resource.Styleable.GradientColor_android_startX = global::BLEClient.Resource.Styleable.GradientColor_android_startX;
+			global::BLE.Resource.Styleable.GradientColor_android_startY = global::BLEClient.Resource.Styleable.GradientColor_android_startY;
+			global::BLE.Resource.Styleable.GradientColor_android_tileMode = global::BLEClient.Resource.Styleable.GradientColor_android_tileMode;
+			global::BLE.Resource.Styleable.GradientColor_android_type = global::BLEClient.Resource.Styleable.GradientColor_android_type;
+			global::BLE.Resource.Styleable.LinearLayoutCompat = global::BLEClient.Resource.Styleable.LinearLayoutCompat;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::BLEClient.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::BLEClient.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_android_gravity = global::BLEClient.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_android_orientation = global::BLEClient.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::BLEClient.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_divider = global::BLEClient.Resource.Styleable.LinearLayoutCompat_divider;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::BLEClient.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_Layout = global::BLEClient.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::BLEClient.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::BLEClient.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::BLEClient.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::BLEClient.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::BLEClient.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::BLE.Resource.Styleable.LinearLayoutCompat_showDividers = global::BLEClient.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::BLE.Resource.Styleable.ListPopupWindow = global::BLEClient.Resource.Styleable.ListPopupWindow;
+			global::BLE.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::BLEClient.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::BLE.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::BLEClient.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::BLE.Resource.Styleable.MenuGroup = global::BLEClient.Resource.Styleable.MenuGroup;
+			global::BLE.Resource.Styleable.MenuGroup_android_checkableBehavior = global::BLEClient.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::BLE.Resource.Styleable.MenuGroup_android_enabled = global::BLEClient.Resource.Styleable.MenuGroup_android_enabled;
+			global::BLE.Resource.Styleable.MenuGroup_android_id = global::BLEClient.Resource.Styleable.MenuGroup_android_id;
+			global::BLE.Resource.Styleable.MenuGroup_android_menuCategory = global::BLEClient.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::BLE.Resource.Styleable.MenuGroup_android_orderInCategory = global::BLEClient.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::BLE.Resource.Styleable.MenuGroup_android_visible = global::BLEClient.Resource.Styleable.MenuGroup_android_visible;
+			global::BLE.Resource.Styleable.MenuItem = global::BLEClient.Resource.Styleable.MenuItem;
+			global::BLE.Resource.Styleable.MenuItem_actionLayout = global::BLEClient.Resource.Styleable.MenuItem_actionLayout;
+			global::BLE.Resource.Styleable.MenuItem_actionProviderClass = global::BLEClient.Resource.Styleable.MenuItem_actionProviderClass;
+			global::BLE.Resource.Styleable.MenuItem_actionViewClass = global::BLEClient.Resource.Styleable.MenuItem_actionViewClass;
+			global::BLE.Resource.Styleable.MenuItem_alphabeticModifiers = global::BLEClient.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::BLE.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::BLEClient.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::BLE.Resource.Styleable.MenuItem_android_checkable = global::BLEClient.Resource.Styleable.MenuItem_android_checkable;
+			global::BLE.Resource.Styleable.MenuItem_android_checked = global::BLEClient.Resource.Styleable.MenuItem_android_checked;
+			global::BLE.Resource.Styleable.MenuItem_android_enabled = global::BLEClient.Resource.Styleable.MenuItem_android_enabled;
+			global::BLE.Resource.Styleable.MenuItem_android_icon = global::BLEClient.Resource.Styleable.MenuItem_android_icon;
+			global::BLE.Resource.Styleable.MenuItem_android_id = global::BLEClient.Resource.Styleable.MenuItem_android_id;
+			global::BLE.Resource.Styleable.MenuItem_android_menuCategory = global::BLEClient.Resource.Styleable.MenuItem_android_menuCategory;
+			global::BLE.Resource.Styleable.MenuItem_android_numericShortcut = global::BLEClient.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::BLE.Resource.Styleable.MenuItem_android_onClick = global::BLEClient.Resource.Styleable.MenuItem_android_onClick;
+			global::BLE.Resource.Styleable.MenuItem_android_orderInCategory = global::BLEClient.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::BLE.Resource.Styleable.MenuItem_android_title = global::BLEClient.Resource.Styleable.MenuItem_android_title;
+			global::BLE.Resource.Styleable.MenuItem_android_titleCondensed = global::BLEClient.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::BLE.Resource.Styleable.MenuItem_android_visible = global::BLEClient.Resource.Styleable.MenuItem_android_visible;
+			global::BLE.Resource.Styleable.MenuItem_contentDescription = global::BLEClient.Resource.Styleable.MenuItem_contentDescription;
+			global::BLE.Resource.Styleable.MenuItem_iconTint = global::BLEClient.Resource.Styleable.MenuItem_iconTint;
+			global::BLE.Resource.Styleable.MenuItem_iconTintMode = global::BLEClient.Resource.Styleable.MenuItem_iconTintMode;
+			global::BLE.Resource.Styleable.MenuItem_numericModifiers = global::BLEClient.Resource.Styleable.MenuItem_numericModifiers;
+			global::BLE.Resource.Styleable.MenuItem_showAsAction = global::BLEClient.Resource.Styleable.MenuItem_showAsAction;
+			global::BLE.Resource.Styleable.MenuItem_tooltipText = global::BLEClient.Resource.Styleable.MenuItem_tooltipText;
+			global::BLE.Resource.Styleable.MenuView = global::BLEClient.Resource.Styleable.MenuView;
+			global::BLE.Resource.Styleable.MenuView_android_headerBackground = global::BLEClient.Resource.Styleable.MenuView_android_headerBackground;
+			global::BLE.Resource.Styleable.MenuView_android_horizontalDivider = global::BLEClient.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::BLE.Resource.Styleable.MenuView_android_itemBackground = global::BLEClient.Resource.Styleable.MenuView_android_itemBackground;
+			global::BLE.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::BLEClient.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::BLE.Resource.Styleable.MenuView_android_itemTextAppearance = global::BLEClient.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::BLE.Resource.Styleable.MenuView_android_verticalDivider = global::BLEClient.Resource.Styleable.MenuView_android_verticalDivider;
+			global::BLE.Resource.Styleable.MenuView_android_windowAnimationStyle = global::BLEClient.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::BLE.Resource.Styleable.MenuView_preserveIconSpacing = global::BLEClient.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::BLE.Resource.Styleable.MenuView_subMenuArrow = global::BLEClient.Resource.Styleable.MenuView_subMenuArrow;
+			global::BLE.Resource.Styleable.PopupWindow = global::BLEClient.Resource.Styleable.PopupWindow;
+			global::BLE.Resource.Styleable.PopupWindowBackgroundState = global::BLEClient.Resource.Styleable.PopupWindowBackgroundState;
+			global::BLE.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::BLEClient.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::BLE.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::BLEClient.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::BLE.Resource.Styleable.PopupWindow_android_popupBackground = global::BLEClient.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::BLE.Resource.Styleable.PopupWindow_overlapAnchor = global::BLEClient.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::BLE.Resource.Styleable.RecycleListView = global::BLEClient.Resource.Styleable.RecycleListView;
+			global::BLE.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::BLEClient.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::BLE.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::BLEClient.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::BLE.Resource.Styleable.SearchView = global::BLEClient.Resource.Styleable.SearchView;
+			global::BLE.Resource.Styleable.SearchView_android_focusable = global::BLEClient.Resource.Styleable.SearchView_android_focusable;
+			global::BLE.Resource.Styleable.SearchView_android_imeOptions = global::BLEClient.Resource.Styleable.SearchView_android_imeOptions;
+			global::BLE.Resource.Styleable.SearchView_android_inputType = global::BLEClient.Resource.Styleable.SearchView_android_inputType;
+			global::BLE.Resource.Styleable.SearchView_android_maxWidth = global::BLEClient.Resource.Styleable.SearchView_android_maxWidth;
+			global::BLE.Resource.Styleable.SearchView_closeIcon = global::BLEClient.Resource.Styleable.SearchView_closeIcon;
+			global::BLE.Resource.Styleable.SearchView_commitIcon = global::BLEClient.Resource.Styleable.SearchView_commitIcon;
+			global::BLE.Resource.Styleable.SearchView_defaultQueryHint = global::BLEClient.Resource.Styleable.SearchView_defaultQueryHint;
+			global::BLE.Resource.Styleable.SearchView_goIcon = global::BLEClient.Resource.Styleable.SearchView_goIcon;
+			global::BLE.Resource.Styleable.SearchView_iconifiedByDefault = global::BLEClient.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::BLE.Resource.Styleable.SearchView_layout = global::BLEClient.Resource.Styleable.SearchView_layout;
+			global::BLE.Resource.Styleable.SearchView_queryBackground = global::BLEClient.Resource.Styleable.SearchView_queryBackground;
+			global::BLE.Resource.Styleable.SearchView_queryHint = global::BLEClient.Resource.Styleable.SearchView_queryHint;
+			global::BLE.Resource.Styleable.SearchView_searchHintIcon = global::BLEClient.Resource.Styleable.SearchView_searchHintIcon;
+			global::BLE.Resource.Styleable.SearchView_searchIcon = global::BLEClient.Resource.Styleable.SearchView_searchIcon;
+			global::BLE.Resource.Styleable.SearchView_submitBackground = global::BLEClient.Resource.Styleable.SearchView_submitBackground;
+			global::BLE.Resource.Styleable.SearchView_suggestionRowLayout = global::BLEClient.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::BLE.Resource.Styleable.SearchView_voiceIcon = global::BLEClient.Resource.Styleable.SearchView_voiceIcon;
+			global::BLE.Resource.Styleable.Spinner = global::BLEClient.Resource.Styleable.Spinner;
+			global::BLE.Resource.Styleable.Spinner_android_dropDownWidth = global::BLEClient.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::BLE.Resource.Styleable.Spinner_android_entries = global::BLEClient.Resource.Styleable.Spinner_android_entries;
+			global::BLE.Resource.Styleable.Spinner_android_popupBackground = global::BLEClient.Resource.Styleable.Spinner_android_popupBackground;
+			global::BLE.Resource.Styleable.Spinner_android_prompt = global::BLEClient.Resource.Styleable.Spinner_android_prompt;
+			global::BLE.Resource.Styleable.Spinner_popupTheme = global::BLEClient.Resource.Styleable.Spinner_popupTheme;
+			global::BLE.Resource.Styleable.StateListDrawable = global::BLEClient.Resource.Styleable.StateListDrawable;
+			global::BLE.Resource.Styleable.StateListDrawableItem = global::BLEClient.Resource.Styleable.StateListDrawableItem;
+			global::BLE.Resource.Styleable.StateListDrawableItem_android_drawable = global::BLEClient.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::BLE.Resource.Styleable.StateListDrawable_android_constantSize = global::BLEClient.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::BLE.Resource.Styleable.StateListDrawable_android_dither = global::BLEClient.Resource.Styleable.StateListDrawable_android_dither;
+			global::BLE.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::BLEClient.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::BLE.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::BLEClient.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::BLE.Resource.Styleable.StateListDrawable_android_variablePadding = global::BLEClient.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::BLE.Resource.Styleable.StateListDrawable_android_visible = global::BLEClient.Resource.Styleable.StateListDrawable_android_visible;
+			global::BLE.Resource.Styleable.SwitchCompat = global::BLEClient.Resource.Styleable.SwitchCompat;
+			global::BLE.Resource.Styleable.SwitchCompat_android_textOff = global::BLEClient.Resource.Styleable.SwitchCompat_android_textOff;
+			global::BLE.Resource.Styleable.SwitchCompat_android_textOn = global::BLEClient.Resource.Styleable.SwitchCompat_android_textOn;
+			global::BLE.Resource.Styleable.SwitchCompat_android_thumb = global::BLEClient.Resource.Styleable.SwitchCompat_android_thumb;
+			global::BLE.Resource.Styleable.SwitchCompat_showText = global::BLEClient.Resource.Styleable.SwitchCompat_showText;
+			global::BLE.Resource.Styleable.SwitchCompat_splitTrack = global::BLEClient.Resource.Styleable.SwitchCompat_splitTrack;
+			global::BLE.Resource.Styleable.SwitchCompat_switchMinWidth = global::BLEClient.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::BLE.Resource.Styleable.SwitchCompat_switchPadding = global::BLEClient.Resource.Styleable.SwitchCompat_switchPadding;
+			global::BLE.Resource.Styleable.SwitchCompat_switchTextAppearance = global::BLEClient.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::BLE.Resource.Styleable.SwitchCompat_thumbTextPadding = global::BLEClient.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::BLE.Resource.Styleable.SwitchCompat_thumbTint = global::BLEClient.Resource.Styleable.SwitchCompat_thumbTint;
+			global::BLE.Resource.Styleable.SwitchCompat_thumbTintMode = global::BLEClient.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::BLE.Resource.Styleable.SwitchCompat_track = global::BLEClient.Resource.Styleable.SwitchCompat_track;
+			global::BLE.Resource.Styleable.SwitchCompat_trackTint = global::BLEClient.Resource.Styleable.SwitchCompat_trackTint;
+			global::BLE.Resource.Styleable.SwitchCompat_trackTintMode = global::BLEClient.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::BLE.Resource.Styleable.TextAppearance = global::BLEClient.Resource.Styleable.TextAppearance;
+			global::BLE.Resource.Styleable.TextAppearance_android_fontFamily = global::BLEClient.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::BLE.Resource.Styleable.TextAppearance_android_shadowColor = global::BLEClient.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::BLE.Resource.Styleable.TextAppearance_android_shadowDx = global::BLEClient.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::BLE.Resource.Styleable.TextAppearance_android_shadowDy = global::BLEClient.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::BLE.Resource.Styleable.TextAppearance_android_shadowRadius = global::BLEClient.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::BLE.Resource.Styleable.TextAppearance_android_textColor = global::BLEClient.Resource.Styleable.TextAppearance_android_textColor;
+			global::BLE.Resource.Styleable.TextAppearance_android_textColorHint = global::BLEClient.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::BLE.Resource.Styleable.TextAppearance_android_textColorLink = global::BLEClient.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::BLE.Resource.Styleable.TextAppearance_android_textSize = global::BLEClient.Resource.Styleable.TextAppearance_android_textSize;
+			global::BLE.Resource.Styleable.TextAppearance_android_textStyle = global::BLEClient.Resource.Styleable.TextAppearance_android_textStyle;
+			global::BLE.Resource.Styleable.TextAppearance_android_typeface = global::BLEClient.Resource.Styleable.TextAppearance_android_typeface;
+			global::BLE.Resource.Styleable.TextAppearance_fontFamily = global::BLEClient.Resource.Styleable.TextAppearance_fontFamily;
+			global::BLE.Resource.Styleable.TextAppearance_textAllCaps = global::BLEClient.Resource.Styleable.TextAppearance_textAllCaps;
+			global::BLE.Resource.Styleable.Toolbar = global::BLEClient.Resource.Styleable.Toolbar;
+			global::BLE.Resource.Styleable.Toolbar_android_gravity = global::BLEClient.Resource.Styleable.Toolbar_android_gravity;
+			global::BLE.Resource.Styleable.Toolbar_android_minHeight = global::BLEClient.Resource.Styleable.Toolbar_android_minHeight;
+			global::BLE.Resource.Styleable.Toolbar_buttonGravity = global::BLEClient.Resource.Styleable.Toolbar_buttonGravity;
+			global::BLE.Resource.Styleable.Toolbar_collapseContentDescription = global::BLEClient.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::BLE.Resource.Styleable.Toolbar_collapseIcon = global::BLEClient.Resource.Styleable.Toolbar_collapseIcon;
+			global::BLE.Resource.Styleable.Toolbar_contentInsetEnd = global::BLEClient.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::BLE.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::BLEClient.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::BLE.Resource.Styleable.Toolbar_contentInsetLeft = global::BLEClient.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::BLE.Resource.Styleable.Toolbar_contentInsetRight = global::BLEClient.Resource.Styleable.Toolbar_contentInsetRight;
+			global::BLE.Resource.Styleable.Toolbar_contentInsetStart = global::BLEClient.Resource.Styleable.Toolbar_contentInsetStart;
+			global::BLE.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::BLEClient.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::BLE.Resource.Styleable.Toolbar_logo = global::BLEClient.Resource.Styleable.Toolbar_logo;
+			global::BLE.Resource.Styleable.Toolbar_logoDescription = global::BLEClient.Resource.Styleable.Toolbar_logoDescription;
+			global::BLE.Resource.Styleable.Toolbar_maxButtonHeight = global::BLEClient.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::BLE.Resource.Styleable.Toolbar_navigationContentDescription = global::BLEClient.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::BLE.Resource.Styleable.Toolbar_navigationIcon = global::BLEClient.Resource.Styleable.Toolbar_navigationIcon;
+			global::BLE.Resource.Styleable.Toolbar_popupTheme = global::BLEClient.Resource.Styleable.Toolbar_popupTheme;
+			global::BLE.Resource.Styleable.Toolbar_subtitle = global::BLEClient.Resource.Styleable.Toolbar_subtitle;
+			global::BLE.Resource.Styleable.Toolbar_subtitleTextAppearance = global::BLEClient.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::BLE.Resource.Styleable.Toolbar_subtitleTextColor = global::BLEClient.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::BLE.Resource.Styleable.Toolbar_title = global::BLEClient.Resource.Styleable.Toolbar_title;
+			global::BLE.Resource.Styleable.Toolbar_titleMargin = global::BLEClient.Resource.Styleable.Toolbar_titleMargin;
+			global::BLE.Resource.Styleable.Toolbar_titleMarginBottom = global::BLEClient.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::BLE.Resource.Styleable.Toolbar_titleMarginEnd = global::BLEClient.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::BLE.Resource.Styleable.Toolbar_titleMargins = global::BLEClient.Resource.Styleable.Toolbar_titleMargins;
+			global::BLE.Resource.Styleable.Toolbar_titleMarginStart = global::BLEClient.Resource.Styleable.Toolbar_titleMarginStart;
+			global::BLE.Resource.Styleable.Toolbar_titleMarginTop = global::BLEClient.Resource.Styleable.Toolbar_titleMarginTop;
+			global::BLE.Resource.Styleable.Toolbar_titleTextAppearance = global::BLEClient.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::BLE.Resource.Styleable.Toolbar_titleTextColor = global::BLEClient.Resource.Styleable.Toolbar_titleTextColor;
+			global::BLE.Resource.Styleable.View = global::BLEClient.Resource.Styleable.View;
+			global::BLE.Resource.Styleable.ViewBackgroundHelper = global::BLEClient.Resource.Styleable.ViewBackgroundHelper;
+			global::BLE.Resource.Styleable.ViewBackgroundHelper_android_background = global::BLEClient.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::BLE.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::BLEClient.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::BLE.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::BLEClient.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::BLE.Resource.Styleable.ViewStubCompat = global::BLEClient.Resource.Styleable.ViewStubCompat;
+			global::BLE.Resource.Styleable.ViewStubCompat_android_id = global::BLEClient.Resource.Styleable.ViewStubCompat_android_id;
+			global::BLE.Resource.Styleable.ViewStubCompat_android_inflatedId = global::BLEClient.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::BLE.Resource.Styleable.ViewStubCompat_android_layout = global::BLEClient.Resource.Styleable.ViewStubCompat_android_layout;
+			global::BLE.Resource.Styleable.View_android_focusable = global::BLEClient.Resource.Styleable.View_android_focusable;
+			global::BLE.Resource.Styleable.View_android_theme = global::BLEClient.Resource.Styleable.View_android_theme;
+			global::BLE.Resource.Styleable.View_paddingEnd = global::BLEClient.Resource.Styleable.View_paddingEnd;
+			global::BLE.Resource.Styleable.View_paddingStart = global::BLEClient.Resource.Styleable.View_paddingStart;
+			global::BLE.Resource.Styleable.View_theme = global::BLEClient.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::BLEClient.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::BLEClient.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::BLEClient.Resource.Attribute.font;
@@ -3314,505 +4921,520 @@ namespace BLEClient
 			public const int beginning = 2131230751;
 			
 			// aapt resource value: 0x7F080020
-			public const int blocking = 2131230752;
+			public const int bleDevicesListView = 2131230752;
 			
 			// aapt resource value: 0x7F080021
-			public const int bottom = 2131230753;
+			public const int blocking = 2131230753;
 			
 			// aapt resource value: 0x7F080022
-			public const int browser_actions_header_text = 2131230754;
-			
-			// aapt resource value: 0x7F080025
-			public const int browser_actions_menu_items = 2131230757;
+			public const int bottom = 2131230754;
 			
 			// aapt resource value: 0x7F080023
-			public const int browser_actions_menu_item_icon = 2131230755;
-			
-			// aapt resource value: 0x7F080024
-			public const int browser_actions_menu_item_text = 2131230756;
+			public const int browser_actions_header_text = 2131230755;
 			
 			// aapt resource value: 0x7F080026
-			public const int browser_actions_menu_view = 2131230758;
+			public const int browser_actions_menu_items = 2131230758;
+			
+			// aapt resource value: 0x7F080024
+			public const int browser_actions_menu_item_icon = 2131230756;
+			
+			// aapt resource value: 0x7F080025
+			public const int browser_actions_menu_item_text = 2131230757;
 			
 			// aapt resource value: 0x7F080027
-			public const int buttonPanel = 2131230759;
+			public const int browser_actions_menu_view = 2131230759;
 			
 			// aapt resource value: 0x7F080028
-			public const int center = 2131230760;
+			public const int buttonPanel = 2131230760;
 			
 			// aapt resource value: 0x7F080029
-			public const int center_horizontal = 2131230761;
+			public const int center = 2131230761;
 			
 			// aapt resource value: 0x7F08002A
-			public const int center_vertical = 2131230762;
+			public const int center_horizontal = 2131230762;
 			
 			// aapt resource value: 0x7F08002B
-			public const int checkbox = 2131230763;
+			public const int center_vertical = 2131230763;
 			
 			// aapt resource value: 0x7F08002C
-			public const int chronometer = 2131230764;
+			public const int checkbox = 2131230764;
 			
 			// aapt resource value: 0x7F08002D
-			public const int clip_horizontal = 2131230765;
+			public const int chronometer = 2131230765;
 			
 			// aapt resource value: 0x7F08002E
-			public const int clip_vertical = 2131230766;
+			public const int clip_horizontal = 2131230766;
 			
 			// aapt resource value: 0x7F08002F
-			public const int collapseActionView = 2131230767;
+			public const int clip_vertical = 2131230767;
 			
 			// aapt resource value: 0x7F080030
-			public const int container = 2131230768;
+			public const int collapseActionView = 2131230768;
 			
 			// aapt resource value: 0x7F080031
-			public const int content = 2131230769;
+			public const int container = 2131230769;
 			
 			// aapt resource value: 0x7F080032
-			public const int contentPanel = 2131230770;
+			public const int content = 2131230770;
 			
 			// aapt resource value: 0x7F080033
-			public const int coordinator = 2131230771;
+			public const int contentPanel = 2131230771;
+			
+			// aapt resource value: 0x7F080034
+			public const int coordinator = 2131230772;
 			
 			// aapt resource value: 0x7F080001
 			public const int CTRL = 2131230721;
 			
-			// aapt resource value: 0x7F080034
-			public const int custom = 2131230772;
-			
 			// aapt resource value: 0x7F080035
-			public const int customPanel = 2131230773;
+			public const int custom = 2131230773;
 			
 			// aapt resource value: 0x7F080036
-			public const int decor_content_parent = 2131230774;
+			public const int customPanel = 2131230774;
 			
 			// aapt resource value: 0x7F080037
-			public const int default_activity_button = 2131230775;
+			public const int decor_content_parent = 2131230775;
 			
 			// aapt resource value: 0x7F080038
-			public const int design_bottom_sheet = 2131230776;
+			public const int default_activity_button = 2131230776;
 			
 			// aapt resource value: 0x7F080039
-			public const int design_menu_item_action_area = 2131230777;
+			public const int design_bottom_sheet = 2131230777;
 			
 			// aapt resource value: 0x7F08003A
-			public const int design_menu_item_action_area_stub = 2131230778;
+			public const int design_menu_item_action_area = 2131230778;
 			
 			// aapt resource value: 0x7F08003B
-			public const int design_menu_item_text = 2131230779;
+			public const int design_menu_item_action_area_stub = 2131230779;
 			
 			// aapt resource value: 0x7F08003C
-			public const int design_navigation_view = 2131230780;
+			public const int design_menu_item_text = 2131230780;
 			
 			// aapt resource value: 0x7F08003D
-			public const int disableHome = 2131230781;
+			public const int design_navigation_view = 2131230781;
 			
 			// aapt resource value: 0x7F08003E
-			public const int edit_query = 2131230782;
+			public const int disableHome = 2131230782;
 			
 			// aapt resource value: 0x7F08003F
-			public const int end = 2131230783;
+			public const int edit_query = 2131230783;
 			
 			// aapt resource value: 0x7F080040
-			public const int enterAlways = 2131230784;
+			public const int end = 2131230784;
 			
 			// aapt resource value: 0x7F080041
-			public const int enterAlwaysCollapsed = 2131230785;
+			public const int enterAlways = 2131230785;
 			
 			// aapt resource value: 0x7F080042
-			public const int exitUntilCollapsed = 2131230786;
-			
-			// aapt resource value: 0x7F080044
-			public const int expanded_menu = 2131230788;
+			public const int enterAlwaysCollapsed = 2131230786;
 			
 			// aapt resource value: 0x7F080043
-			public const int expand_activities_button = 2131230787;
+			public const int exitUntilCollapsed = 2131230787;
 			
 			// aapt resource value: 0x7F080045
-			public const int fill = 2131230789;
+			public const int expanded_menu = 2131230789;
 			
-			// aapt resource value: 0x7F080048
-			public const int filled = 2131230792;
+			// aapt resource value: 0x7F080044
+			public const int expand_activities_button = 2131230788;
 			
 			// aapt resource value: 0x7F080046
-			public const int fill_horizontal = 2131230790;
+			public const int failureTextView = 2131230790;
 			
 			// aapt resource value: 0x7F080047
-			public const int fill_vertical = 2131230791;
-			
-			// aapt resource value: 0x7F080049
-			public const int @fixed = 2131230793;
+			public const int fill = 2131230791;
 			
 			// aapt resource value: 0x7F08004A
-			public const int forever = 2131230794;
+			public const int filled = 2131230794;
+			
+			// aapt resource value: 0x7F080048
+			public const int fill_horizontal = 2131230792;
+			
+			// aapt resource value: 0x7F080049
+			public const int fill_vertical = 2131230793;
+			
+			// aapt resource value: 0x7F08004B
+			public const int @fixed = 2131230795;
+			
+			// aapt resource value: 0x7F08004C
+			public const int forever = 2131230796;
 			
 			// aapt resource value: 0x7F080002
 			public const int FUNCTION = 2131230722;
 			
-			// aapt resource value: 0x7F08004B
-			public const int ghost_view = 2131230795;
-			
-			// aapt resource value: 0x7F08004C
-			public const int group_divider = 2131230796;
-			
 			// aapt resource value: 0x7F08004D
-			public const int home = 2131230797;
+			public const int ghost_view = 2131230797;
 			
 			// aapt resource value: 0x7F08004E
-			public const int homeAsUp = 2131230798;
+			public const int gridLayout1 = 2131230798;
 			
 			// aapt resource value: 0x7F08004F
-			public const int icon = 2131230799;
+			public const int group_divider = 2131230799;
 			
 			// aapt resource value: 0x7F080050
-			public const int icon_group = 2131230800;
+			public const int home = 2131230800;
 			
 			// aapt resource value: 0x7F080051
-			public const int ifRoom = 2131230801;
+			public const int homeAsUp = 2131230801;
 			
 			// aapt resource value: 0x7F080052
-			public const int image = 2131230802;
+			public const int icon = 2131230802;
 			
 			// aapt resource value: 0x7F080053
-			public const int info = 2131230803;
+			public const int icon_group = 2131230803;
 			
 			// aapt resource value: 0x7F080054
-			public const int italic = 2131230804;
+			public const int ifRoom = 2131230804;
 			
 			// aapt resource value: 0x7F080055
-			public const int item_touch_helper_previous_elevation = 2131230805;
+			public const int image = 2131230805;
 			
 			// aapt resource value: 0x7F080056
-			public const int labeled = 2131230806;
+			public const int info = 2131230806;
 			
 			// aapt resource value: 0x7F080057
-			public const int largeLabel = 2131230807;
+			public const int italic = 2131230807;
 			
 			// aapt resource value: 0x7F080058
-			public const int left = 2131230808;
+			public const int item_touch_helper_previous_elevation = 2131230808;
 			
 			// aapt resource value: 0x7F080059
-			public const int line1 = 2131230809;
+			public const int labeled = 2131230809;
 			
 			// aapt resource value: 0x7F08005A
-			public const int line3 = 2131230810;
+			public const int largeLabel = 2131230810;
 			
 			// aapt resource value: 0x7F08005B
-			public const int listMode = 2131230811;
+			public const int left = 2131230811;
 			
 			// aapt resource value: 0x7F08005C
-			public const int list_item = 2131230812;
+			public const int line1 = 2131230812;
 			
 			// aapt resource value: 0x7F08005D
-			public const int masked = 2131230813;
+			public const int line3 = 2131230813;
 			
 			// aapt resource value: 0x7F08005E
-			public const int message = 2131230814;
+			public const int listMode = 2131230814;
+			
+			// aapt resource value: 0x7F08005F
+			public const int list_item = 2131230815;
+			
+			// aapt resource value: 0x7F080060
+			public const int masked = 2131230816;
+			
+			// aapt resource value: 0x7F080061
+			public const int message = 2131230817;
 			
 			// aapt resource value: 0x7F080003
 			public const int META = 2131230723;
 			
-			// aapt resource value: 0x7F08005F
-			public const int middle = 2131230815;
-			
-			// aapt resource value: 0x7F080060
-			public const int mini = 2131230816;
-			
-			// aapt resource value: 0x7F080061
-			public const int mtrl_child_content_container = 2131230817;
-			
 			// aapt resource value: 0x7F080062
-			public const int mtrl_internal_children_alpha_tag = 2131230818;
+			public const int middle = 2131230818;
 			
 			// aapt resource value: 0x7F080063
-			public const int multiply = 2131230819;
+			public const int mini = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int navigation = 2131230820;
+			public const int mtrl_child_content_container = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int navigation_dashboard = 2131230821;
+			public const int mtrl_internal_children_alpha_tag = 2131230821;
 			
 			// aapt resource value: 0x7F080066
-			public const int navigation_header_container = 2131230822;
+			public const int multiply = 2131230822;
 			
 			// aapt resource value: 0x7F080067
-			public const int navigation_home = 2131230823;
+			public const int navigation = 2131230823;
 			
 			// aapt resource value: 0x7F080068
-			public const int navigation_notifications = 2131230824;
+			public const int navigation_dashboard = 2131230824;
 			
 			// aapt resource value: 0x7F080069
-			public const int never = 2131230825;
+			public const int navigation_header_container = 2131230825;
 			
 			// aapt resource value: 0x7F08006A
-			public const int none = 2131230826;
+			public const int navigation_home = 2131230826;
 			
 			// aapt resource value: 0x7F08006B
-			public const int normal = 2131230827;
+			public const int navigation_notifications = 2131230827;
 			
 			// aapt resource value: 0x7F08006C
-			public const int notification_background = 2131230828;
+			public const int never = 2131230828;
 			
 			// aapt resource value: 0x7F08006D
-			public const int notification_main_column = 2131230829;
+			public const int none = 2131230829;
 			
 			// aapt resource value: 0x7F08006E
-			public const int notification_main_column_container = 2131230830;
+			public const int normal = 2131230830;
 			
 			// aapt resource value: 0x7F08006F
-			public const int outline = 2131230831;
+			public const int notification_background = 2131230831;
 			
 			// aapt resource value: 0x7F080070
-			public const int parallax = 2131230832;
+			public const int notification_main_column = 2131230832;
 			
 			// aapt resource value: 0x7F080071
-			public const int parentPanel = 2131230833;
+			public const int notification_main_column_container = 2131230833;
 			
 			// aapt resource value: 0x7F080072
-			public const int parent_matrix = 2131230834;
+			public const int outline = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int pin = 2131230835;
+			public const int parallax = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int progress_circular = 2131230836;
+			public const int parentPanel = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int progress_horizontal = 2131230837;
+			public const int parent_matrix = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int radio = 2131230838;
+			public const int pin = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int right = 2131230839;
+			public const int progress_circular = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int right_icon = 2131230840;
+			public const int progress_horizontal = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int right_side = 2131230841;
+			public const int radio = 2131230841;
 			
 			// aapt resource value: 0x7F08007A
-			public const int save_image_matrix = 2131230842;
+			public const int right = 2131230842;
 			
 			// aapt resource value: 0x7F08007B
-			public const int save_non_transition_alpha = 2131230843;
+			public const int right_icon = 2131230843;
 			
 			// aapt resource value: 0x7F08007C
-			public const int save_scale_type = 2131230844;
+			public const int right_side = 2131230844;
 			
 			// aapt resource value: 0x7F08007D
-			public const int screen = 2131230845;
+			public const int save_image_matrix = 2131230845;
 			
 			// aapt resource value: 0x7F08007E
-			public const int scroll = 2131230846;
-			
-			// aapt resource value: 0x7F080082
-			public const int scrollable = 2131230850;
+			public const int save_non_transition_alpha = 2131230846;
 			
 			// aapt resource value: 0x7F08007F
-			public const int scrollIndicatorDown = 2131230847;
+			public const int save_scale_type = 2131230847;
 			
 			// aapt resource value: 0x7F080080
-			public const int scrollIndicatorUp = 2131230848;
+			public const int screen = 2131230848;
 			
 			// aapt resource value: 0x7F080081
-			public const int scrollView = 2131230849;
-			
-			// aapt resource value: 0x7F080083
-			public const int search_badge = 2131230851;
-			
-			// aapt resource value: 0x7F080084
-			public const int search_bar = 2131230852;
+			public const int scroll = 2131230849;
 			
 			// aapt resource value: 0x7F080085
-			public const int search_button = 2131230853;
+			public const int scrollable = 2131230853;
+			
+			// aapt resource value: 0x7F080082
+			public const int scrollIndicatorDown = 2131230850;
+			
+			// aapt resource value: 0x7F080083
+			public const int scrollIndicatorUp = 2131230851;
+			
+			// aapt resource value: 0x7F080084
+			public const int scrollView = 2131230852;
 			
 			// aapt resource value: 0x7F080086
-			public const int search_close_btn = 2131230854;
+			public const int search_badge = 2131230854;
 			
 			// aapt resource value: 0x7F080087
-			public const int search_edit_frame = 2131230855;
+			public const int search_bar = 2131230855;
 			
 			// aapt resource value: 0x7F080088
-			public const int search_go_btn = 2131230856;
+			public const int search_button = 2131230856;
 			
 			// aapt resource value: 0x7F080089
-			public const int search_mag_icon = 2131230857;
+			public const int search_close_btn = 2131230857;
 			
 			// aapt resource value: 0x7F08008A
-			public const int search_plate = 2131230858;
+			public const int search_edit_frame = 2131230858;
 			
 			// aapt resource value: 0x7F08008B
-			public const int search_src_text = 2131230859;
+			public const int search_go_btn = 2131230859;
 			
 			// aapt resource value: 0x7F08008C
-			public const int search_voice_btn = 2131230860;
-			
-			// aapt resource value: 0x7F08008E
-			public const int selected = 2131230862;
+			public const int search_mag_icon = 2131230860;
 			
 			// aapt resource value: 0x7F08008D
-			public const int select_dialog_listview = 2131230861;
+			public const int search_plate = 2131230861;
+			
+			// aapt resource value: 0x7F08008E
+			public const int search_src_text = 2131230862;
+			
+			// aapt resource value: 0x7F08008F
+			public const int search_voice_btn = 2131230863;
+			
+			// aapt resource value: 0x7F080091
+			public const int selected = 2131230865;
+			
+			// aapt resource value: 0x7F080090
+			public const int select_dialog_listview = 2131230864;
 			
 			// aapt resource value: 0x7F080004
 			public const int SHIFT = 2131230724;
 			
-			// aapt resource value: 0x7F08008F
-			public const int shortcut = 2131230863;
-			
-			// aapt resource value: 0x7F080090
-			public const int showCustom = 2131230864;
-			
-			// aapt resource value: 0x7F080091
-			public const int showHome = 2131230865;
-			
 			// aapt resource value: 0x7F080092
-			public const int showTitle = 2131230866;
+			public const int shortcut = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int smallLabel = 2131230867;
+			public const int showCustom = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int snackbar_action = 2131230868;
+			public const int showHome = 2131230868;
 			
 			// aapt resource value: 0x7F080095
-			public const int snackbar_text = 2131230869;
+			public const int showTitle = 2131230869;
 			
 			// aapt resource value: 0x7F080096
-			public const int snap = 2131230870;
+			public const int smallLabel = 2131230870;
 			
 			// aapt resource value: 0x7F080097
-			public const int snapMargins = 2131230871;
+			public const int snackbar_action = 2131230871;
 			
 			// aapt resource value: 0x7F080098
-			public const int spacer = 2131230872;
+			public const int snackbar_text = 2131230872;
 			
 			// aapt resource value: 0x7F080099
-			public const int split_action_bar = 2131230873;
+			public const int snap = 2131230873;
 			
 			// aapt resource value: 0x7F08009A
-			public const int src_atop = 2131230874;
+			public const int snapMargins = 2131230874;
 			
 			// aapt resource value: 0x7F08009B
-			public const int src_in = 2131230875;
+			public const int spacer = 2131230875;
 			
 			// aapt resource value: 0x7F08009C
-			public const int src_over = 2131230876;
+			public const int split_action_bar = 2131230876;
 			
 			// aapt resource value: 0x7F08009D
-			public const int start = 2131230877;
+			public const int src_atop = 2131230877;
 			
 			// aapt resource value: 0x7F08009E
-			public const int stretch = 2131230878;
+			public const int src_in = 2131230878;
 			
 			// aapt resource value: 0x7F08009F
-			public const int submenuarrow = 2131230879;
+			public const int src_over = 2131230879;
 			
 			// aapt resource value: 0x7F0800A0
-			public const int submit_area = 2131230880;
+			public const int start = 2131230880;
+			
+			// aapt resource value: 0x7F0800A1
+			public const int startDiscoveryButton = 2131230881;
+			
+			// aapt resource value: 0x7F0800A2
+			public const int stopDiscoveryButton = 2131230882;
+			
+			// aapt resource value: 0x7F0800A3
+			public const int stretch = 2131230883;
+			
+			// aapt resource value: 0x7F0800A4
+			public const int submenuarrow = 2131230884;
+			
+			// aapt resource value: 0x7F0800A5
+			public const int submit_area = 2131230885;
 			
 			// aapt resource value: 0x7F080005
 			public const int SYM = 2131230725;
 			
-			// aapt resource value: 0x7F0800A1
-			public const int tabMode = 2131230881;
-			
-			// aapt resource value: 0x7F0800A2
-			public const int tag_transition_group = 2131230882;
-			
-			// aapt resource value: 0x7F0800A3
-			public const int tag_unhandled_key_event_manager = 2131230883;
-			
-			// aapt resource value: 0x7F0800A4
-			public const int tag_unhandled_key_listeners = 2131230884;
-			
-			// aapt resource value: 0x7F0800A5
-			public const int text = 2131230885;
-			
 			// aapt resource value: 0x7F0800A6
-			public const int text2 = 2131230886;
-			
-			// aapt resource value: 0x7F0800AB
-			public const int textinput_counter = 2131230891;
-			
-			// aapt resource value: 0x7F0800AC
-			public const int textinput_error = 2131230892;
-			
-			// aapt resource value: 0x7F0800AD
-			public const int textinput_helper_text = 2131230893;
+			public const int tabMode = 2131230886;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int textSpacerNoButtons = 2131230887;
+			public const int tag_transition_group = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int textSpacerNoTitle = 2131230888;
+			public const int tag_unhandled_key_event_manager = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int textStart = 2131230889;
+			public const int tag_unhandled_key_listeners = 2131230889;
 			
 			// aapt resource value: 0x7F0800AA
-			public const int text_input_password_toggle = 2131230890;
+			public const int text = 2131230890;
 			
-			// aapt resource value: 0x7F0800AE
-			public const int time = 2131230894;
-			
-			// aapt resource value: 0x7F0800AF
-			public const int title = 2131230895;
+			// aapt resource value: 0x7F0800AB
+			public const int text2 = 2131230891;
 			
 			// aapt resource value: 0x7F0800B0
-			public const int titleDividerNoCustom = 2131230896;
+			public const int textinput_counter = 2131230896;
 			
 			// aapt resource value: 0x7F0800B1
-			public const int title_template = 2131230897;
+			public const int textinput_error = 2131230897;
 			
 			// aapt resource value: 0x7F0800B2
-			public const int top = 2131230898;
+			public const int textinput_helper_text = 2131230898;
+			
+			// aapt resource value: 0x7F0800AC
+			public const int textSpacerNoButtons = 2131230892;
+			
+			// aapt resource value: 0x7F0800AD
+			public const int textSpacerNoTitle = 2131230893;
+			
+			// aapt resource value: 0x7F0800AE
+			public const int textStart = 2131230894;
+			
+			// aapt resource value: 0x7F0800AF
+			public const int text_input_password_toggle = 2131230895;
 			
 			// aapt resource value: 0x7F0800B3
-			public const int topPanel = 2131230899;
+			public const int time = 2131230899;
 			
 			// aapt resource value: 0x7F0800B4
-			public const int touch_outside = 2131230900;
+			public const int title = 2131230900;
 			
 			// aapt resource value: 0x7F0800B5
-			public const int transition_current_scene = 2131230901;
+			public const int titleDividerNoCustom = 2131230901;
 			
 			// aapt resource value: 0x7F0800B6
-			public const int transition_layout_save = 2131230902;
+			public const int title_template = 2131230902;
 			
 			// aapt resource value: 0x7F0800B7
-			public const int transition_position = 2131230903;
+			public const int top = 2131230903;
 			
 			// aapt resource value: 0x7F0800B8
-			public const int transition_scene_layoutid_cache = 2131230904;
+			public const int topPanel = 2131230904;
 			
 			// aapt resource value: 0x7F0800B9
-			public const int transition_transform = 2131230905;
+			public const int touch_outside = 2131230905;
 			
 			// aapt resource value: 0x7F0800BA
-			public const int uniform = 2131230906;
+			public const int transition_current_scene = 2131230906;
 			
 			// aapt resource value: 0x7F0800BB
-			public const int unlabeled = 2131230907;
+			public const int transition_layout_save = 2131230907;
 			
 			// aapt resource value: 0x7F0800BC
-			public const int up = 2131230908;
+			public const int transition_position = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
-			public const int useLogo = 2131230909;
+			public const int transition_scene_layoutid_cache = 2131230909;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int view_offset_helper = 2131230910;
+			public const int transition_transform = 2131230910;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int visible = 2131230911;
+			public const int uniform = 2131230911;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int withText = 2131230912;
+			public const int unlabeled = 2131230912;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int wrap_content = 2131230913;
+			public const int up = 2131230913;
+			
+			// aapt resource value: 0x7F0800C2
+			public const int useLogo = 2131230914;
+			
+			// aapt resource value: 0x7F0800C3
+			public const int view_offset_helper = 2131230915;
+			
+			// aapt resource value: 0x7F0800C4
+			public const int visible = 2131230916;
+			
+			// aapt resource value: 0x7F0800C5
+			public const int withText = 2131230917;
+			
+			// aapt resource value: 0x7F0800C6
+			public const int wrap_content = 2131230918;
 			
 			static Id()
 			{
@@ -4271,40 +5893,43 @@ namespace BLEClient
 			public const int fab_transformation_sheet_behavior = 2131623981;
 			
 			// aapt resource value: 0x7F0E002E
-			public const int hide_bottom_view_on_scroll_behavior = 2131623982;
+			public const int hello = 2131623982;
 			
 			// aapt resource value: 0x7F0E002F
-			public const int mtrl_chip_close_icon_content_description = 2131623983;
+			public const int hide_bottom_view_on_scroll_behavior = 2131623983;
 			
 			// aapt resource value: 0x7F0E0030
-			public const int password_toggle_content_description = 2131623984;
+			public const int mtrl_chip_close_icon_content_description = 2131623984;
 			
 			// aapt resource value: 0x7F0E0031
-			public const int path_password_eye = 2131623985;
+			public const int password_toggle_content_description = 2131623985;
 			
 			// aapt resource value: 0x7F0E0032
-			public const int path_password_eye_mask_strike_through = 2131623986;
+			public const int path_password_eye = 2131623986;
 			
 			// aapt resource value: 0x7F0E0033
-			public const int path_password_eye_mask_visible = 2131623987;
+			public const int path_password_eye_mask_strike_through = 2131623987;
 			
 			// aapt resource value: 0x7F0E0034
-			public const int path_password_strike_through = 2131623988;
+			public const int path_password_eye_mask_visible = 2131623988;
 			
 			// aapt resource value: 0x7F0E0035
-			public const int search_menu_title = 2131623989;
+			public const int path_password_strike_through = 2131623989;
 			
 			// aapt resource value: 0x7F0E0036
-			public const int status_bar_notification_info_overflow = 2131623990;
+			public const int search_menu_title = 2131623990;
 			
 			// aapt resource value: 0x7F0E0037
-			public const int title_dashboard = 2131623991;
+			public const int status_bar_notification_info_overflow = 2131623991;
 			
 			// aapt resource value: 0x7F0E0038
-			public const int title_home = 2131623992;
+			public const int title_dashboard = 2131623992;
 			
 			// aapt resource value: 0x7F0E0039
-			public const int title_notifications = 2131623993;
+			public const int title_home = 2131623993;
+			
+			// aapt resource value: 0x7F0E003A
+			public const int title_notifications = 2131623994;
 			
 			static String()
 			{

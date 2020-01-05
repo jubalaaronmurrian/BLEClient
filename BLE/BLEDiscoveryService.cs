@@ -72,7 +72,7 @@ namespace BLE
 
     }
 
-    public class BLEDiscoveryService : INotifyPropertyChanged
+    public class BLEDiscoveryService : INotifyPropertyChanged,IBLEDiscoveryService
     {
         private BluetoothManager blueToothManager = null;
         private BluetoothAdapter blueToothAdapter = null;

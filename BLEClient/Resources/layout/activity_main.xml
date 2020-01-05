@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
@@ -16,6 +17,38 @@
         android:layout_marginTop="@dimen/activity_vertical_margin"
         android:text="@string/title_home" />
 
+    <GridLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="384.0dp"
+        android:id="@+id/gridLayout1"
+        android:rowCount="4"
+        android:columnCount="1"
+        android:layout_height="494.0dp"
+        android:layout_above="@id/navigation" >
+        <ListView
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:id="@+id/bleDevicesListView"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"/>
+        <Button
+            android:text="Start Discovery"
+            android:id="@+id/startDiscoveryButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <Button
+            android:text="Stop Discovery"
+            android:id="@+id/stopDiscoveryButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text=""
+            android:id="@+id/failureTextView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </GridLayout>
+
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/navigation"
         android:layout_width="wrap_content"
@@ -25,5 +58,6 @@
         android:background="?android:attr/windowBackground"
         android:layout_alignParentBottom="true"
         app:menu="@menu/navigation" />
+
 
 </RelativeLayout>
