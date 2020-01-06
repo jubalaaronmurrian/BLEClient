@@ -24,8 +24,9 @@ namespace BLE
 
             private set
             {
-                OnPropertyChanged("ScanFailure");
                 this.scanFailure = value;
+                OnPropertyChanged("ScanFailure");
+                
             }
         }
         public IList<ScanResult> ScanResults
@@ -37,8 +38,9 @@ namespace BLE
 
             private set
             {
-                OnPropertyChanged("ScanResults");
                 this.scanResults = value;
+                OnPropertyChanged("ScanResults");
+                
             }
         }
 
