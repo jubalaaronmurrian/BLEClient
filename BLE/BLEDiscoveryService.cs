@@ -9,32 +9,32 @@ using Android.Runtime;
 namespace BLE
 {
 
-    public class BLECallback : ScanCallback,INotifyPropertyChanged
+    public class BLECallback : ScanCallback, INotifyPropertyChanged
     {
 
         private ScanFailure scanFailure;
         private IList<ScanResult> scanResults = null;
 
-        public ScanFailure ScanFailure 
-        { 
-            get 
+        public ScanFailure ScanFailure
+        {
+            get
             {
                 return this.scanFailure;
-            } 
+            }
 
-            private set 
+            private set
             {
                 OnPropertyChanged("ScanFailure");
                 this.scanFailure = value;
-            } 
+            }
         }
-        public IList<ScanResult> ScanResults 
+        public IList<ScanResult> ScanResults
         {
             get
             {
                 return this.scanResults;
             }
-            
+
             private set
             {
                 OnPropertyChanged("ScanResults");
@@ -64,15 +64,25 @@ namespace BLE
         protected void OnPropertyChanged(string name)
         {
             PropertyChangedEventHandler handler = PropertyChanged;
-            if(handler != null)
+            if (handler != null)
             {
-                handler(this, new PropertyChangedEventArgs(name));
+
+                switch (name)
+                {
+                    case "ScanResults":
+                        handler(this.ScanResults, new PropertyChangedEventArgs(name));
+                        break;
+                    case "ScanFailure":
+                        handler(this.ScanFailure, new PropertyChangedEventArgs(name));
+                        break;
+                }
+
             }
         }
 
     }
 
-    public class BLEDiscoveryService : INotifyPropertyChanged,IBLEDiscoveryService
+    public class BLEDiscoveryService : INotifyPropertyChanged, IBLEDiscoveryService
     {
         private BluetoothManager blueToothManager = null;
         private BluetoothAdapter blueToothAdapter = null;
@@ -88,7 +98,7 @@ namespace BLE
             {
                 return this.bleCallback.ScanFailure;
             }
-        
+
         }
 
         public IList<ScanResult> ScanResults
@@ -101,8 +111,8 @@ namespace BLE
 
         public BLEDiscoveryService()
         {
-            this.blueToothManager = (BluetoothManager)Application.BluetoothService;
-            this.blueToothAdapter = blueToothManager.Adapter;
+            this.blueToothManager = (BluetoothManager)Application.Context.GetSystemService(Application.BluetoothService);
+            this.blueToothAdapter = blueToothManager.Adapter ?? BluetoothAdapter.DefaultAdapter;
             this.blueToothLeScanner = this.blueToothAdapter.BluetoothLeScanner;
             this.bleCallback = new BLECallback();
             this.bleCallback.PropertyChanged += BleCallback_PropertyChanged;

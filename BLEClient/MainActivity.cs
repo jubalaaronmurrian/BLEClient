@@ -1,4 +1,5 @@
 ﻿using Android.App;
+using Android.Bluetooth.LE;
 using Android.OS;
 using Android.Runtime;
 using Android.Support.Design.Widget;
@@ -6,6 +7,7 @@ using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
 using BLE;
+using System.Collections.Generic;
 
 namespace BLEClient
 {
@@ -75,7 +77,28 @@ namespace BLEClient
 
         private void BleDiscoveryService_PropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
         {
-            throw new System.NotImplementedException();
+
+            switch (e.PropertyName)
+            {
+                case "ScanFailure":
+                    ScanFailure scanFailure = (ScanFailure)sender;
+                    this.failureTextView.Text = scanFailure.ToString();
+                    break;
+                case "ScanResults":
+                    IList<ScanResult> scanResults = sender as IList<ScanResult>;
+                    if (scanResults != null)
+                    {
+                        IList<string> bleDevices = new List<string>();
+                        foreach (ScanResult scanResult in scanResults)
+                        {
+                            bleDevices.Add(scanResult.Device.Name);
+                        }
+
+                        this.bleDevicesListView.Adapter = new ArrayAdapter<string>(Application.ApplicationContext, Resource.Id.bleDevicesListView, bleDevices);
+
+                    }
+                    break;
+            }
         }
     }
 }
